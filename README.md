@@ -1,8 +1,4 @@
-# 残酷共学模版
-
-> 本文档为创建残酷共学的通用模版 - 中文版，请根据模版结构来进行你的残酷共学的内容填充
-
-# {本期残酷共学标题}
+# 叙事残酷共学 by LXDAO & Uncommons
 
 ## 什么是残酷共学（Intensive Co-learning）？
 
@@ -23,38 +19,114 @@
 
 如果你有任何有关残酷共学的疑问或者想法，请到 [残酷共学 Telegram 群](https://t.me/LXDAO/6215) 联系我们。
 
-## {本期残酷共学名字}介绍
+## 叙事残酷共学介绍
 
-请写清楚本期残酷共学：
+本次“叙事”残酷共学由 LXDAO 治理组和 Uncommons 联合发起。从人文视角开始，一起探索经典与区块链的交汇点，在学习与分享中构建我们心中的未来社会。
 
-- 举办的原因
-- 谁/哪个组织发起的，以及合作方
-- 一共几期
-- 共学形式：自主学习、定期答疑、线上课程 、线下 Meetup (请自由组合或新增新的共学方式)
-- 本次共学目标或产出
-- 适合人群
-- 负责人、助教、导师的简单介绍以及联系方式
+### 共学目标
+
+- 养成每天学习一点新知识的好习惯。
+- 对比过去的经典思想与区块链的现代观点，看看不同时代的人是如何思考。
+- 用学习到的知识，可以尝试提出自己对未来链上社会的想法，哪怕只是一个小小的点子。
+
+### 面向人群及共学特色
+
+**面向人群**
+
+- 对区块链、经典理论或未来社会构想有兴趣的成员，无论基础如何，都会找到适合自己的内容。
+- 想养成每天学点新东西的习惯，并且愿意和他人分享自己的想法和见解的小伙伴。
+- 寻找一个轻松、开放的学习环境，结识志同道合的新朋友，一起探索和思考的人。
+
+**共学特色**
+
+- 结合经典政治哲学与链上社会的著作。
+- 和 Uncommons 社区合作，汇聚多元化的视角与资源，促进社区之间的互动与知识共享
+- 不仅局限于理论探讨，还有探索的“链上国家”等相关研究分享。
+
+### 共学形式
+
+- **自主学习：** 每天围绕指定的阅读材料进行学习，并每天总结“对于建设未来链上社会，阅读的材料中有趣的观点/感想/想在共读会上讨论的问题”写在笔记中作为打卡内容，字数不限。
+- **每周共读会：** 每周六参与共读会，时间分别为：9.14，9.21，9.28 晚上八点，在 Teams，将会邀请 DAO Builder：定慧、台湾 Web3 行动者 Mashbean 等嘉宾前来分享。
+- **在线讨论：** 随时可以在电报频道发起讨论，共学笔记分享交流：https://t.me/LXDAO/3333
+- **本期助教：** Tristan，TG：@Tristan404；Connie，TG：@connielittlelike；Swift Evo，TG：@swiftevo
 
 ## 共学内容
 
-请写清楚共学内容的链接以及使用方法，如果欢迎新增共学内容，也请说明一下，但请负责人保证共学的内容准确、质量、数量、符合本次共学难度。
+**第 1 周**
 
-如果有提供的具体的课程学习计划，也请在此说明。
+**主题：链上社会蓝图构想**
+
+- 这一周旨在从链上社会的角度，对未来社会蓝图进行初步探讨，并结合传统学科视角进行分析。
+- 我们将通过《The Network State》重新审视国家的角色，如何从传统国家体系的限制中走出来，迈向一个由技术驱动的去中心化治理的未来，同时我们也可以看看在 Green Pill 播客中与此相反的观点：Josh 从 Balaji 的个人历史、网络国家的论据、以及思想的脉络这几个方面批评了“网络国家”。
+- 与《政治哲学》的经典论述相结合，特别是第一章对自然状态的探讨，帮助我们回顾人类社会在国家形成之前的组织形式，以及第二章中，国家合法性和统治正当性的问题。
+- 本周的讨论还将包括 DAO Builder 定慧分享他对 Network State 项目的调研成果，帮助我们更清晰地理解链上社会的未来发展路径。
+
+**阅读清单：**
+
+- 书籍《[The Network State](https://thenetworkstate.com/)》 第一章 + 第五章
+- [Green Pill 博客编译：激进区块链](https://matters.town/a/7ienqwk2eex4)
+- 书籍[《政治哲学》](https://book.douban.com/subject/33436180/)第一章：自然状态 + 第二章：证成国家
+- [Vitalik：What do I think about network states?](https://vitalik.eth.limo/general/2022/07/13/networkstates.html)
+
+**拓展阅读：**
+
+- 《[The Network State](https://thenetworkstate.com/)》[相关博客](https://thenetworkstate.com/podcast)
+- [Vitalik：What do I think about network states?](https://vitalik.eth.limo/general/2022/07/13/networkstates.html)
+- [Vitalik 文章中文版本（评议）](https://mp.weixin.qq.com/s/Vrtb1EWt23Wx3IRFVaI0qA)
+- [a16z 对 Balaji Srinivasan 的相关访谈（可以开启平台字幕），方便快速了解整本书](https://www.youtube.com/watch?v=8rWIsc34N9Y)
+- [《Are Network States a Scam?》A retrospective of Network States after 3 years](https://www.brightmirror.co/p/are-network-states-a-scam)
+
+**第 2 周**
+
+**主题：信任**
+
+- 比特币的诞生源于对权威的「信任危机」：它在 80-90 年代对主权政体的质问中萌芽，2008 年金融危机后，对金融机构的失望催生了一群黑客通过加密手段解决传统系统中依赖第三方信任的问题。《经济学人》称区块链为“信任机器”，正在重新定义社会信任机制。
+- 信任作为社会资本的核心，对经济繁荣和政治稳定至关重要。著名学者弗朗西斯·福山在《信任：社会美德与创造经济繁荣》中详细分析了不同国家的社会信任度对经济发展的影响。阅读此书可以帮助理解信任系统的基础概念。
+- Web3 运动反抗传统信任系统，提出了“我们不信任，我们验证”的口号。这种反叛精神源自互联网早期，如 Ken Thompson 在 1984 年的《Reflections on Trusting Trust》中讨论了软件信任问题，成为密码朋克运动的重要议题。Nick Szabo 在《Trusted Third Parties are Security Holes》中进一步强调了去中心化的重要性，这些思想深刻影响了加密货币和智能合约的设计，体现了对信任的重新构建。
+
+**阅读清单：**
+
+- 书籍：[《信任：社会美德与创造经济繁荣》](https://book.douban.com/subject/26712444/) 福山： 第一部分 信任之理念（第一章～第六章）
+- 文章：[Trusted Third Parties are Security Holes](https://nakamotoinstitute.org/library/trusted-third-parties/)
+
+**拓展阅读：**
+
+- [Reflections on trusting trust](https://cdn.nakamotoinstitute.org/docs/reflections-on-trusting-trust.pdf)
+- [Uncommons 「信任」主题加密思潮书单](https://mp.weixin.qq.com/s/tqMrD1qbYPH9HHXHM0BLbA)
+- [码书：编码与解码的战争](https://book.douban.com/subject/27176880/)
+- [秘密结社、网路国家、火人祭、ZUZALU —— 对新政治社群的思考](https://matters.town/a/tovt6cabc5an)
+
+**第 3 周**
+
+**主题：民主**
+
+- 链上社会的概念逐渐成为现实，并为实现真正的民主自治提供了前所未有的可能性。《数位：协作技术与民主的未来》深入探讨了如何通过数字化和协作技术打破传统权力结构，实现更广泛的公民参与与自治治理。
+- 与此相呼应，传统政治哲学中的民主理论，如《政治哲学》（牛津大学哲学通识课）第三章所讨论的内容，也为我们提供了理解国家权力合法性和公民自治的理论基础。
+
+**阅读清单：**
+
+- [数位：协作技术与民主的未来](https://www.plurality.net/chapters/)
+- 《政治哲学》（牛津大学哲学通识课） 第三章：谁应当统治？
+
+**拓展阅读：**
+
+- 视频：[作者之一 Glen Weyl 对《数位：协作技术与民主的未来》的相关演讲](https://www.youtube.com/watch?v=UKaGZqqQGCg)
+- 书籍《可治理的空间：线上生活的民主设计》：[Governable Spaces：Democratic Design for Online Life](https://luminosoa.org/site/books/m/10.1525/luminos.181/)
+- 《Governable Spaces》在 [区块链社会主义者](https://theblockchainsocialist.com/) 的博客：[Governable Spaces: Designing Democracy for the Internet - The Blockchain Socialist](https://theblockchainsocialist.com/governable-spaces-designing-democracy-for-the-internet/)
 
 ## 共学时间
 
-- 报名截止时间：(请写明时区)
-- 本期共学开始时间：(请写明时区)
-- 本期共学持续时间：21 天（我们默认为 21 天，21 天为养成一个新习惯的周期，可根据自己的内容和课程来制定，但不易过长或过短）
-
+- 报名截止时间：9 月 10 号晚 23 点
+- 本期共学时间： 2024 年 9 月 11 日到 10 月 1 日
+- 本期共学持续时间：21 天
+  
 ## 共学规则
 
 （以下内容为 LXDAO 共学活动默认规则，你可以根据自己共学的情况进行修改，请注意我们有自动化脚本进行打卡记录的更新，请确保如果修改规则要将脚本规则一并修改）
 
 - 报名规则：请在报名截止时间前进行报名，共学一旦开始后，不得中途加入
-- 打卡规则：建议你每天学习 30 ～ 60 分钟，并将学习笔记提交，我们会自动更新你的打卡状态，每周有两次请假的机会，超过后状态变为 ❌，视为本次共学失败
-- 激励规则：（如果有具体的激励方式请写明）（没有激励方案默认文案参考：通过本次共学学到的知识，就是你给自己最好的激励！）
-- 考核规则：（如果有具体的考核方式请写明，没有就不写）
+- 打卡规则：建议你每天学习 30 ～ 60 分钟，并将学习笔记提交（每天总结“对于建设未来链上社会，阅读的材料中有趣的观点/感想/想在共读会上讨论的问题”写在笔记中作为打卡内容，字数不限），我们会自动更新你的打卡状态，每周有两次请假的机会，超过后状态变为 ❌，视为本次共学失败
+- 激励规则：通过本次共学学到的知识，就是你给自己最好的激励！
 
 ## 如何报名和打卡？
 
@@ -109,38 +181,3 @@
 <!-- STATISTICALDATA_START -->
 <!-- STATISTICALDATA_END -->
 
-> 如果你是此次共学发起人，请进行以下操作进行自动化发放权限的设置，完成后请将这一部分内容从你的仓库中删掉。
-
-### 为您的组织 【残酷共学营】 创建具有邀请协作者权限的个人访问令牌
-
-要创建具有邀请协作者权限的个人访问令牌，请按照以下步骤操作：
-
-1. 导航到您的个人设置: 转到 https://github.com/settings/profile 并登录您的 GitHub 帐户。
-
-2. 访问个人访问令牌页面: 在左侧菜单中，单击 “开发者设置”，然后选择 “个人访问令牌”。
-
-3. 创建新令牌: 点击 “生成新令牌” 按钮。选择 classic 的
-
-4. 命名您的令牌: 在 “令牌名称” 字段中输入一个描述性名称，例如 `invite-collaborators`。
-
-5. 选择适当的范围: 在 “范围” 部分，选择授予您的令牌所需的权限。对于邀请协作者，您需要授予以下范围：
-
-- `repo:invite`：允许您的令牌创建存储库邀请。最好是给这个令牌赋予 repo 总权限
-- `admin:org` 权限的用户才能创建具有邀请协作者权限的个人访问令牌。
-
-6. 将令牌值添加到存储库 secret: 按照上述步骤将您的个人访问令牌值添加到您的存储库 secret 中，并将名称设置为 `PAT_WITH_INVITE_PERMISSIONS`。
-
-![image](https://github.com/user-attachments/assets/d7c06540-9076-4557-b911-e5e484a742bb)
-
-### 配置共学信息配置变量
-
-1. 配置这四个仓库变量(Repository variables)，注意不要添加**换行**，**空格**符号
-
-| Field Name  | Value                     | Comments                        |
-| ----------- | ------------------------- | ------------------------------- |
-| START_DATE  | 2024-06-24T00:00:00+00:00 | Start time                      |
-| END_DATE    | 2024-07-06T23:59:59+00:00 | End time                        |
-| FIELD_NAME  | EICL1st· Name             | Field name in the readme        |
-| FILE_SUFFIX | _EICL1st.md_              | Shared learning activity number |
-
-![image](https://github.com/user-attachments/assets/d5b6f504-9eea-4215-9848-056fc33f00f8)
