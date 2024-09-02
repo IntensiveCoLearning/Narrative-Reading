@@ -1,5 +1,8 @@
 # 叙事残酷共学 by LXDAO & Uncommons
 
+<img width="1275" alt="Frame 1321316967" src="https://github.com/user-attachments/assets/ead6432d-485f-4555-9888-4d4d6cd187df">
+
+
 ## 什么是残酷共学（Intensive Co-learning）？
 
 残酷共学是由 [Bruce Xu](https://twitter.com/brucexu_eth) 首创的一种学习模式，目前由 [LXDAO](https://lxdao.io/) 组织并运营残酷共学品牌。
