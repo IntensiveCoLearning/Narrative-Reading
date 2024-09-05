@@ -51,7 +51,7 @@ timezone: Pacific/Auckland # 新西兰标准时间 (UTC+12)
 
 ---
 
-# {Lorin Li}
+# Lorin Li
 
 1. 自我介绍：目前Base东京，在某交易所打工中。对于公共物品建设感兴趣，想要学习并提升自己
 2. 你认为会完成本次残酷学习吗？尽可能完成
