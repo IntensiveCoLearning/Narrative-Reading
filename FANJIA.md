@@ -7,7 +7,7 @@ timezone: Asia/Shanghai
 
 ---
 
-# 樊嘉
+# FanJia
 
 1. 媒体与传播系在读博士，DAO研究者
 2. 不确定
