@@ -51,8 +51,7 @@ timezone: Pacific/Auckland # 新西兰标准时间 (UTC+12)
 
 ---
 
-# {在这里写你的名字}
-古忆/Stella
+# 古忆/Stella
 
 1. 简单自我介绍
 币圈老韭菜，对社科人文感兴趣
