@@ -18,7 +18,7 @@
 
 关于更多「残酷共学」的介绍请参见：https://forum.lxdao.io/t/topic/1654
 
-关于更多正在发生的残酷共学请参见：https://intensivecolearn.ing/
+关于更多正在发生的残酷共学请参见：https://intensivecolearn.ing/ 
 
 如果你有对"残酷共学"项目有疑问或者想法，请到 [残酷共学 Telegram 群](https://t.me/LXDAO/6215) 联系我们。有关叙事残酷共学讨论请在 [Narrative Reading Group TG 群](https://t.me/LXDAO/3333)交流。
 
