@@ -51,7 +51,7 @@ timezone: Pacific/Auckland # 新西兰标准时间 (UTC+12)
 
 ---
 
-# {Lelouch}
+# Lelouch
 
 1. 简单自我介绍
 2. 你认为你会完成本次残酷学习吗？
