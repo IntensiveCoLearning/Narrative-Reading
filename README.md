@@ -113,7 +113,7 @@
 
 **拓展阅读：**
 
--《Governable Spaces》在 [区块链社会主义者](https://theblockchainsocialist.com/) 的博客：[Governable Spaces: Designing Democracy for the Internet - The Blockchain Socialist](https://theblockchainsocialist.com/governable-spaces-designing-democracy-for-the-internet/)
+- 《Governable Spaces》在 [区块链社会主义者](https://theblockchainsocialist.com/) 的博客：[Governable Spaces: Designing Democracy for the Internet - The Blockchain Socialist](https://theblockchainsocialist.com/governable-spaces-designing-democracy-for-the-internet/)
 - 有关民主的[“区块链社会主义”博客](https://theblockchainsocialist.com/?s=democracy)
 - [数位：协作技术与民主的未来](https://www.plurality.net/chapters/)
   
