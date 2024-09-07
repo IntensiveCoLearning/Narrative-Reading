@@ -108,15 +108,15 @@
 
 **阅读清单：**
 
-- [数位：协作技术与民主的未来](https://www.plurality.net/chapters/)
+- 简短小书籍《可治理的空间：线上生活的民主设计》：[Governable Spaces：Democratic Design for Online Life](https://luminosoa.org/site/books/m/10.1525/luminos.181/)
 - 《政治哲学》（牛津大学哲学通识课） 第三章：谁应当统治？
 
 **拓展阅读：**
 
-- 视频：[作者之一 Glen Weyl 对《数位：协作技术与民主的未来》的相关演讲](https://www.youtube.com/watch?v=UKaGZqqQGCg)
-- 书籍《可治理的空间：线上生活的民主设计》：[Governable Spaces：Democratic Design for Online Life](https://luminosoa.org/site/books/m/10.1525/luminos.181/)
-- 《Governable Spaces》在 [区块链社会主义者](https://theblockchainsocialist.com/) 的博客：[Governable Spaces: Designing Democracy for the Internet - The Blockchain Socialist](https://theblockchainsocialist.com/governable-spaces-designing-democracy-for-the-internet/)
-
+-《Governable Spaces》在 [区块链社会主义者](https://theblockchainsocialist.com/) 的博客：[Governable Spaces: Designing Democracy for the Internet - The Blockchain Socialist](https://theblockchainsocialist.com/governable-spaces-designing-democracy-for-the-internet/)
+- 有关民主的[“区块链社会主义”博客](https://theblockchainsocialist.com/?s=democracy)
+- [数位：协作技术与民主的未来](https://www.plurality.net/chapters/)
+  
 ## 共学时间
 
 - 报名截止时间：9 月 10 号晚 23 点
