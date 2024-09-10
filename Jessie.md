@@ -68,6 +68,9 @@ timezone: Pacific/Auckland # 新西兰标准时间 (UTC+12)
 
 笔记内容
 
+来自 Connie 的留言：
+嗨！谢谢你报名参加 叙事残酷共学，方便的话请加我微信：riceandleaf 会有微信讨论群，我们进一步联系
+
 ### 2024.07.12
 
 <!-- Content_END -->
