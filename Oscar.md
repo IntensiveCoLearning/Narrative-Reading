@@ -6,6 +6,10 @@ timezone: Asia/Shanghai
 
 1. A eco-lifelong learner. To surf🏄‍♀️ better in the Web3 world. Enjoy this challenging vibe and become cooler 🆒. 
 2. 你认为你会完成本次残酷学习吗？Yes
+3. 笔记的内容参考：
+   - 今天的阅读有哪一点让你觉得值得和大家分享的或者特别有感触的？
+   - 有什么想在叙事共读会上和大家讨论的点？
+   - 有什么补充的相关材料可以给大家分享的，并简要介绍一下材料内容。
 
 ## Notes
 
