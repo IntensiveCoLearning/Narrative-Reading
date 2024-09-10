@@ -1,5 +1,5 @@
 ---
-timezone: Pacific/Auckland
+timezone: Asia/Shanghai
 ---
 
 > 请在上边的 timezone 添加你的当地时区，这会有助于你的打卡状态的自动化更新，如果没有添加，默认为北京时间 UTC+8 时区
@@ -51,7 +51,7 @@ timezone: Pacific/Auckland # 新西兰标准时间 (UTC+12)
 
 ---
 
-# {Owen zhang}
+# Owen zhang
 
 1. SeeTalk播客主理人&加密人文游牧者
 2. 你认为你会完成本次残酷学习吗？应该能完成每周一篇共学笔记
