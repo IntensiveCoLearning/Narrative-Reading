@@ -137,7 +137,7 @@
 因为残酷共学的报名和打卡是基于 GitHub 进行开展的，如果你是非开发者或者对 git 操作不熟悉，请先阅读此文档：[残酷共学 GitHub 新手教程](https://www.notion.so/lxdao/GitHub-53fca5ba49bb40c69e4e40e69f58f416)
 
 - 报名:
-
+**报名教学视频可以私信 Connie**
   - Step01：Fork 本仓库。
   - Step02：复制 Template.md 创建你的个人笔记文件，并根据文档指引填写你的信息，并将文件重命名为你的名字：YourName.md。
   - Step03：创建一个 PR 到当前仓库，本残酷共学助教会对你的 PR 进行 review，review 通过后，你的 PR 会被 merge 到 main 分支，这个时候你会收到邀请加入这个仓库 contribution 的邮件，接受邀请后，你会自动获得 main 分支的 push 权限。
@@ -145,6 +145,9 @@
   - 请加入[ TG 群组](https://t.me/LXDAO/3333)保持交流。加入群组后请在群里报到一下方便助教记录。
 
 - 打卡：
+
+https://github.com/user-attachments/assets/84e194e9-e3c3-49be-87e8-4c62dd818926
+
   - 报名成功后，你将拥有 main 分支的 push 权限，你需要将每天学习笔记按日期更新到你的 YourName.md 文档中，提交更新后，我们会自动更新你的打卡状态到下面的打卡记录表。
   - 如果你不在 UTC+8 时区，需要添加时区 code 到你的 YourName.md 文件的开始，错误的时区设置可能会使自动化打卡脚本错误计算打卡时间，具体请参考：https://github.com/IntensiveCoLearning/template/blob/main/Template.md?plain=1#L1
   - 当你提交笔记时，请确保以下几点，否则打卡可能会失败：
