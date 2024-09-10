@@ -1,6 +1,6 @@
 # 叙事残酷共学 by LXDAO & Uncommons  
 
-![image](https://github.com/user-attachments/assets/e71bb18d-07e7-41ea-b0eb-ab0bb526fd91)
+![image](https://github.com/user-attachments/assets/e71bb18d-07e7-41ea-b0eb-ab0bb526fd91) 
 
 
 ## 什么是残酷共学（Intensive Co-learning）？
