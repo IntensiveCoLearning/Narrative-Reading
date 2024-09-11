@@ -174,7 +174,7 @@ https://github.com/user-attachments/assets/84e194e9-e3c3-49be-87e8-4c62dd818926
 | Connie |   | | | | | | | | | | | | | | | | | | | |   |   |
 | Oscar |   | | | | | | | | | | | | | | | | | | | |   |   |
 | Linda |   | | | | | | | | | | | | | | | | | | | |   |   |
-| Kevin |   | | | | | | | | | | | | | | | | | | | |   |   |
+| Kevin | ✅ | | | | | | | | | | | | | | | | | | | |   |   |
 | BigFei |   | | | | | | | | | | | | | | | | | | | |   |   |
 | bububut | ✅ | | | | | | | | | | | | | | | | | | | |   |   |
 | Lorin |   | | | | | | | | | | | | | | | | | | | |   |   |
@@ -200,6 +200,7 @@ https://github.com/user-attachments/assets/84e194e9-e3c3-49be-87e8-4c62dd818926
 | wenQ |   | | | | | | | | | | | | | | | | | | | |   |   |
 | Reign |   | | | | | | | | | | | | | | | | | | | |   |   |
 <!-- END_COMMIT_TABLE -->
+
 
 
 
