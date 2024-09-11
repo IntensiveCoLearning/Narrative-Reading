@@ -1,6 +1,6 @@
-# 叙事残酷共学 by LXDAO & Uncommons
+# 叙事残酷共学 by LXDAO & Uncommons  
 
-![image](https://github.com/user-attachments/assets/e71bb18d-07e7-41ea-b0eb-ab0bb526fd91)
+![image](https://github.com/user-attachments/assets/e71bb18d-07e7-41ea-b0eb-ab0bb526fd91) 
 
 
 ## 什么是残酷共学（Intensive Co-learning）？
@@ -18,7 +18,7 @@
 
 关于更多「残酷共学」的介绍请参见：https://forum.lxdao.io/t/topic/1654
 
-关于更多正在发生的残酷共学请参见：https://intensivecolearn.ing/
+关于更多正在发生的残酷共学请参见：https://intensivecolearn.ing/ 
 
 如果你有对"残酷共学"项目有疑问或者想法，请到 [残酷共学 Telegram 群](https://t.me/LXDAO/6215) 联系我们。有关叙事残酷共学讨论请在 [Narrative Reading Group TG 群](https://t.me/LXDAO/3333)交流。
 
@@ -51,7 +51,7 @@
 - **自主学习：** 每天围绕指定的阅读材料进行学习，并每天总结“对于建设未来链上社会，阅读的材料中有趣的观点/感想/想在共读会上讨论的问题”写在笔记中作为打卡内容，字数不限。
 - **每周共读会：** 每周六参与共读会，时间分别为：9.14，9.21，9.28，在 Teams，将会邀请 DAO Builder：定慧、台湾 Web3 行动者 Mashbean 等嘉宾前来分享。
 - **在线讨论：** 随时可以在电报频道发起讨论，[共学笔记分享交流](https://t.me/LXDAO/3333)
-- **本期助教：** Tristan，TG：@Tristan404；Connie，TG：@connielittlelike；Swift Evo，TG：@swiftevo
+- **本期助教：** [@Tristan](https://t.me/Tristan404)；[@Connie](https://t.me/connielittlelike)；[@Swift Evo](https://t.me/swiftevo)
 
 ## 共学内容
 
@@ -68,7 +68,9 @@
 
 - 书籍《[The Network State](https://thenetworkstate.com/)》 第一章 + 第五章
 - [Green Pill 博客编译：激进区块链](https://matters.town/a/7ienqwk2eex4)
-- 书籍[《政治哲学》](https://book.douban.com/subject/33436180/)第一章：自然状态 + 第二章：证成国家
+- 第一章：自然状态 + 第二章：证成国家
+  [政治哲学（思想阐发+生活实例，切入政治哲学核心。从柏拉图到罗尔斯，以2500年思想精髓回应当下现实） (乔纳森·沃尔夫) (Z-Library).pdf](https://github.com/user-attachments/files/16961539/%2B.2500.Z-Library.pdf)
+
 - [Vitalik：What do I think about network states?](https://vitalik.eth.limo/general/2022/07/13/networkstates.html)
 
 **拓展阅读：**
@@ -103,19 +105,21 @@
 
 **主题：民主**
 
-- 链上社会的概念逐渐成为现实，并为实现真正的民主自治提供了前所未有的可能性。《数位：协作技术与民主的未来》深入探讨了如何通过数字化和协作技术打破传统权力结构，实现更广泛的公民参与与自治治理。
+- 《治理空间》一书中指出，互联网一直受到一种他称之为“隐性封建主义”的现象的困扰：一种将社区建设为封地的文化和技术偏见。其后果已经远远超出了网络空间本身。封建默认行为训练我们放弃社区的民主潜力，使我们对独裁的科技首席执行官和独裁政客更加宽容。但在线空间可能是创造性、激进和民主复兴的场所。
 - 与此相呼应，传统政治哲学中的民主理论，如《政治哲学》（牛津大学哲学通识课）第三章所讨论的内容，也为我们提供了理解国家权力合法性和公民自治的理论基础。
 
 **阅读清单：**
 
-- [数位：协作技术与民主的未来](https://www.plurality.net/chapters/)
+- 简短小书籍《可治理的空间：线上生活的民主设计》：[Governable Spaces：Democratic Design for Online Life](https://luminosoa.org/site/books/m/10.1525/luminos.181/)
 - 《政治哲学》（牛津大学哲学通识课） 第三章：谁应当统治？
 
 **拓展阅读：**
 
-- 视频：[作者之一 Glen Weyl 对《数位：协作技术与民主的未来》的相关演讲](https://www.youtube.com/watch?v=UKaGZqqQGCg)
-- 书籍《可治理的空间：线上生活的民主设计》：[Governable Spaces：Democratic Design for Online Life](https://luminosoa.org/site/books/m/10.1525/luminos.181/)
 - 《Governable Spaces》在 [区块链社会主义者](https://theblockchainsocialist.com/) 的博客：[Governable Spaces: Designing Democracy for the Internet - The Blockchain Socialist](https://theblockchainsocialist.com/governable-spaces-designing-democracy-for-the-internet/)
+- 有关民主的[“区块链社会主义”博客](https://theblockchainsocialist.com/?s=democracy)
+- [数位：协作技术与民主的未来](https://www.plurality.net/chapters/)
+
+**注：以上学习材料仅用于学习和讨论，旨在帮助大家理解相关话题的多元视角，材料中的一些观点或内容可能不完全符合各文化和国家的现状。请谨慎阅读，并进行批判性思考。** 
 
 ## 共学时间
 
@@ -135,7 +139,7 @@
 因为残酷共学的报名和打卡是基于 GitHub 进行开展的，如果你是非开发者或者对 git 操作不熟悉，请先阅读此文档：[残酷共学 GitHub 新手教程](https://www.notion.so/lxdao/GitHub-53fca5ba49bb40c69e4e40e69f58f416)
 
 - 报名:
-
+**报名教学视频可以私信 Connie**
   - Step01：Fork 本仓库。
   - Step02：复制 Template.md 创建你的个人笔记文件，并根据文档指引填写你的信息，并将文件重命名为你的名字：YourName.md。
   - Step03：创建一个 PR 到当前仓库，本残酷共学助教会对你的 PR 进行 review，review 通过后，你的 PR 会被 merge 到 main 分支，这个时候你会收到邀请加入这个仓库 contribution 的邮件，接受邀请后，你会自动获得 main 分支的 push 权限。
@@ -143,6 +147,9 @@
   - 请加入[ TG 群组](https://t.me/LXDAO/3333)保持交流。加入群组后请在群里报到一下方便助教记录。
 
 - 打卡：
+
+https://github.com/user-attachments/assets/84e194e9-e3c3-49be-87e8-4c62dd818926
+
   - 报名成功后，你将拥有 main 分支的 push 权限，你需要将每天学习笔记按日期更新到你的 YourName.md 文档中，提交更新后，我们会自动更新你的打卡状态到下面的打卡记录表。
   - 如果你不在 UTC+8 时区，需要添加时区 code 到你的 YourName.md 文件的开始，错误的时区设置可能会使自动化打卡脚本错误计算打卡时间，具体请参考：https://github.com/IntensiveCoLearning/template/blob/main/Template.md?plain=1#L1
   - 当你提交笔记时，请确保以下几点，否则打卡可能会失败：
@@ -164,10 +171,136 @@
 <!-- START_COMMIT_TABLE -->
 | NICL1st· Name | 9.11 | 9.12 | 9.13 | 9.14 | 9.15 | 9.16 | 9.17 | 9.18 | 9.19 | 9.20 | 9.21 | 9.22 | 9.23 | 9.24 | 9.25 | 9.26 | 9.27 | 9.28 | 9.29 | 9.30 | 10.01 | 10.02 |
 | ------------- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
-| Ache | | | | | | | | | | | | | | | | | | | | |   |   |
-| SwiftEvo | | | | | | | | | | | | | | | | | | | | |   |   |
-| Connie | | | | | | | | | | | | | | | | | | | | |   |   |
+| Ache | ✅ | | | | | | | | | | | | | | | | | | | |   |   |
+| SwiftEvo | ✅ | | | | | | | | | | | | | | | | | | | |   |   |
+| Connie | ✅ | | | | | | | | | | | | | | | | | | | |   |   |
+| Oscar |   | | | | | | | | | | | | | | | | | | | |   |   |
+| Linda |   | | | | | | | | | | | | | | | | | | | |   |   |
+| Kevin | ✅ | | | | | | | | | | | | | | | | | | | |   |   |
+| BigFei | ✅ | | | | | | | | | | | | | | | | | | | |   |   |
+| bububut | ✅ | | | | | | | | | | | | | | | | | | | |   |   |
+| Lorin | ✅ | | | | | | | | | | | | | | | | | | | |   |   |
+| realgu |   | | | | | | | | | | | | | | | | | | | |   |   |
+| Lillian | ✅ |   | | | | | | | | | | | | | | | | | | |   |   |
+| Paris | ✅ | | | | | | | | | | | | | | | | | | | |   |   |
+| Tristan |   | | | | | | | | | | | | | | | | | | | |   |   |
+| Stella |   | | | | | | | | | | | | | | | | | | | |   |   |
+| chloe |   | | | | | | | | | | | | | | | | | | | |   |   |
+| FANJIA |   | | | | | | | | | | | | | | | | | | | |   |   |
+| KarlLEEN |   | | | | | | | | | | | | | | | | | | | |   |   |
+| haoran |   | | | | | | | | | | | | | | | | | | | |   |   |
+| Rae |   | | | | | | | | | | | | | | | | | | | |   |   |
+| Lelouch | ✅ | | | | | | | | | | | | | | | | | | | |   |   |
+| flytoufu |   | | | | | | | | | | | | | | | | | | | |   |   |
+| Punkcan | ✅ | | | | | | | | | | | | | | | | | | | |   |   |
+| Marcus |   | | | | | | | | | | | | | | | | | | | |   |   |
+| Ray | ✅ | | | | | | | | | | | | | | | | | | | |   |   |
+| Jessie |   | | | | | | | | | | | | | | | | | | | |   |   |
+| yulai | ✅ | | | | | | | | | | | | | | | | | | | |   |   |
+| Mercy |   | | | | | | | | | | | | | | | | | | | |   |   |
+| Daniel |   | | | | | | | | | | | | | | | | | | | |   |   |
+| wenQ |   | | | | | | | | | | | | | | | | | | | |   |   |
+| Reign | ✅ | | | | | | | | | | | | | | | | | | | |   |   |
+| Ailce889 |   | | | | | | | | | | | | | | | | | | | |   |   |
+| Nour |   | | | | | | | | | | | | | | | | | | | |   |   |
+| owen | ✅ | | | | | | | | | | | | | | | | | | | |   |   |
 <!-- END_COMMIT_TABLE -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
