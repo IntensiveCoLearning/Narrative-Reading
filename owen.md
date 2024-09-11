@@ -64,10 +64,14 @@ timezone: Pacific/Auckland # 新西兰标准时间 (UTC+12)
 
 <!-- Content_START -->
 
-### 2024.07.11
+### 2024.09.11
 
-笔记内容
+阅读完《Green Pill 博客编译：激进区块链》
+阅读完《Are Network States a Scam?》A retrospective of Network States after 3 years》
+回看a16z 对 Balaji Srinivasan 的相关访谈（可以开启平台字幕），方便快速了解整本书
 
-### 2024.07.12
+材料较多，还在整理梳理自己的想法和看法。
+
+### 2024.09.12
 
 <!-- Content_END -->
