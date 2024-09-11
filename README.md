@@ -182,7 +182,7 @@ https://github.com/user-attachments/assets/84e194e9-e3c3-49be-87e8-4c62dd818926
 | Lorin | ✅ | | | | | | | | | | | | | | | | | | | |   |   |
 | realgu |   | | | | | | | | | | | | | | | | | | | |   |   |
 | Lillian | ✅ |   | | | | | | | | | | | | | | | | | | |   |   |
-| Paris |   | | | | | | | | | | | | | | | | | | | |   |   |
+| Paris | ✅ | | | | | | | | | | | | | | | | | | | |   |   |
 | Tristan |   | | | | | | | | | | | | | | | | | | | |   |   |
 | Stella |   | | | | | | | | | | | | | | | | | | | |   |   |
 | chloe |   | | | | | | | | | | | | | | | | | | | |   |   |
@@ -204,6 +204,7 @@ https://github.com/user-attachments/assets/84e194e9-e3c3-49be-87e8-4c62dd818926
 | Ailce889 |   | | | | | | | | | | | | | | | | | | | |   |   |
 | Nour |   | | | | | | | | | | | | | | | | | | | |   |   |
 <!-- END_COMMIT_TABLE -->
+
 
 
 
