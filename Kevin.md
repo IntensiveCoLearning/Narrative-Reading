@@ -68,7 +68,7 @@ timezone: Pacific/Auckland # 新西兰标准时间 (UTC+12)
 
 ### 2024.09.11
 
-笔记内容
+速读了[*The Network State*](https://thenetworkstate.com/)，感觉很疯狂hhh（虽然这同样是自己所期待的），但文章似乎并未提及军队（Military/Army）的建立与管理。
 
 ### 2024.09.12
 
