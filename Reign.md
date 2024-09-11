@@ -72,6 +72,9 @@ A network state operates in a decentralized manner, unlike traditional nation-st
 
 This innovative approach blends digital-first community-building with real-world governance, offering a peaceful, reproducible path to creating a new type of nation.
 
+Many people assume they understand the concept of a nation-state, but upon closer examination, the distinction between "nation" and "state" becomes clearer, along with the confusion surrounding modern terminology. Different human organizational forms may challenge the nation-state, paving the way for "network states."
+
+This process brings back familiar philosophers like Locke, Rousseau, Plato, and Aristotle. Unlike traditional approaches, the network state treats political science as "applied science" or "political technology." Just as cryptocurrency has popularized financial theory, crypto-states offer a platform for practical political theory. The network state operates on different assumptions from the nation-state system.
 ### 2024.09.12
 
 
