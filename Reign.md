@@ -51,7 +51,7 @@ timezone: Pacific/Auckland # 新西兰标准时间 (UTC+12)
 
 ---
 
-# Ache 
+# Reign 
 
 1. Reign, a former banker and securities industry professional, engaged in macro and microeconomic analysis, stock, futures, forex, cryptocurrency trading, and quantitative research.
 2. I will try my best.
