@@ -68,7 +68,9 @@
 
 - 书籍《[The Network State](https://thenetworkstate.com/)》 第一章 + 第五章
 - [Green Pill 博客编译：激进区块链](https://matters.town/a/7ienqwk2eex4)
-- 书籍[《政治哲学》](https://book.douban.com/subject/33436180/)第一章：自然状态 + 第二章：证成国家
+- 第一章：自然状态 + 第二章：证成国家
+  [政治哲学（思想阐发+生活实例，切入政治哲学核心。从柏拉图到罗尔斯，以2500年思想精髓回应当下现实） (乔纳森·沃尔夫) (Z-Library).pdf](https://github.com/user-attachments/files/16961539/%2B.2500.Z-Library.pdf)
+
 - [Vitalik：What do I think about network states?](https://vitalik.eth.limo/general/2022/07/13/networkstates.html)
 
 **拓展阅读：**
