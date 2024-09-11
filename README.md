@@ -177,7 +177,7 @@ https://github.com/user-attachments/assets/84e194e9-e3c3-49be-87e8-4c62dd818926
 | Oscar |   | | | | | | | | | | | | | | | | | | | |   |   |
 | Linda |   | | | | | | | | | | | | | | | | | | | |   |   |
 | Kevin | ✅ | | | | | | | | | | | | | | | | | | | |   |   |
-| BigFei |   | | | | | | | | | | | | | | | | | | | |   |   |
+| BigFei | ✅ | | | | | | | | | | | | | | | | | | | |   |   |
 | bububut | ✅ | | | | | | | | | | | | | | | | | | | |   |   |
 | Lorin | ✅ | | | | | | | | | | | | | | | | | | | |   |   |
 | realgu |   | | | | | | | | | | | | | | | | | | | |   |   |
@@ -205,6 +205,7 @@ https://github.com/user-attachments/assets/84e194e9-e3c3-49be-87e8-4c62dd818926
 | Nour |   | | | | | | | | | | | | | | | | | | | |   |   |
 | owen |   | | | | | | | | | | | | | | | | | | | |   |   |
 <!-- END_COMMIT_TABLE -->
+
 
 
 
