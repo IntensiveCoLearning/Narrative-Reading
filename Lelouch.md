@@ -2,53 +2,6 @@
 timezone: Asia/Shanghai
 ---
 
-> 请在上边的 timezone 添加你的当地时区，这会有助于你的打卡状态的自动化更新，如果没有添加，默认为北京时间 UTC+8 时区
-> 时区请参考以下列表，请移除 # 以后的内容
-
-timezone: Pacific/Honolulu # 夏威夷-阿留申标准时间 (UTC-10)
-
-timezone: America/Anchorage # 阿拉斯加标准时间 (UTC-9)
-
-timezone: America/Los_Angeles # 太平洋标准时间 (UTC-8)
-
-timezone: America/Denver # 山地标准时间 (UTC-7)
-
-timezone: America/Chicago # 中部标准时间 (UTC-6)
-
-timezone: America/New_York # 东部标准时间 (UTC-5)
-
-timezone: America/Halifax # 大西洋标准时间 (UTC-4)
-
-timezone: America/St_Johns # 纽芬兰标准时间 (UTC-3:30)
-
-timezone: America/Sao_Paulo # 巴西利亚时间 (UTC-3)
-
-timezone: Atlantic/Azores # 亚速尔群岛时间 (UTC-1)
-
-timezone: Europe/London # 格林威治标准时间 (UTC+0)
-
-timezone: Europe/Berlin # 中欧标准时间 (UTC+1)
-
-timezone: Europe/Helsinki # 东欧标准时间 (UTC+2)
-
-timezone: Europe/Moscow # 莫斯科标准时间 (UTC+3)
-
-timezone: Asia/Dubai # 海湾标准时间 (UTC+4)
-
-timezone: Asia/Kolkata # 印度标准时间 (UTC+5:30)
-
-timezone: Asia/Dhaka # 孟加拉国标准时间 (UTC+6)
-
-timezone: Asia/Bangkok # 中南半岛时间 (UTC+7)
-
-timezone: Asia/Shanghai # 中国标准时间 (UTC+8)
-
-timezone: Asia/Tokyo # 日本标准时间 (UTC+9)
-
-timezone: Australia/Sydney # 澳大利亚东部标准时间 (UTC+10)
-
-timezone: Pacific/Auckland # 新西兰标准时间 (UTC+12)
-
 ---
 
 # Lelouch
@@ -66,7 +19,17 @@ timezone: Pacific/Auckland # 新西兰标准时间 (UTC+12)
 
 ### 2024.09.11
 
-笔记内容
+《政治哲学》第一章：自然状态
+讨论国家存在的正当性的方法之一就是思考其不存在时人类会如何生活，也就是在原子化的自然状态下的人们会如何演变。
+首先是认为人们在自然状态下会因猜疑和竞争不可避免走向战争，所以必须有强有力政府支持的霍布斯。他在《利维坦》中进行了论证：
+理解人性首先需要自我认识，将运动守恒定律迁移到人身上就是人对幸福的持续追求，而为了实现这一目的需要足够多的权力。一方面是因为人对权力有无止境的欲望，另一方面是益品是稀缺的，如若无法获得更多权力就无法维持现状。因此人人都会开展对权力的追求，进而导致竞争。他认为人与人是平等的，不是智力或体力的平等，而是所有人都有能力杀死另一个人的平等。
+在这种前提下，人为了满足自己的欲求会攻击他人剥夺他人的利益，而为了防止自己被剥夺而不得不时刻保持警惕，有时为了赢得未来强大的名声或荣誉也会主动攻击而不收取实际利益。
+从这个角度看，人类社会就是一个尔虞我诈的战场，每个人都不得不时刻准备战斗。
+为驳斥他的观点，有人提出问题，在自然状态下的人是否有道德，如有，那在无国家状态下的人是否可以依此抵制侵犯他人的诱惑？
+对此，霍布斯的观点是，在自然状态下，对错都无意义，因为非正义代表违反某条法律，但法律存在则必须有执法者和立法者，自然状态下无共同权力，也没有法律，亦即无正义与否的区分。也就是说人有无限膨胀的保存自我的权利，可以有做任何自己认为合适的事情的自由，即便是伤害他人。这就是所谓的natural right of liberty。
+他提出十九条自然法则，认为遵循它们可以达到一种相对的和平。
+个人理性的最优解就是攻击他人，而集体理性的最优解是服从自然法以生活在和平状态下，二者相互背离时很难根据集体理性的方式合作，如要我们服从自然法，需要根据周围人的判断进而决定，如果周围人都服从自然法，那我们就有服从的义务，但若不是，那对美德的追求就只会导致自己的毁灭。（有点像《三体》里的黑暗森林法则，生命体互相猜疑，最终都会先下手为强。）
+霍布斯为此给出的答案是创立一个主权者以惩罚那些不服从自然法的人。由此人们可以度过和平的一生进而进行价值的创造。
 
 ### 2024.09.12
 
