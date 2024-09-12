@@ -83,4 +83,10 @@ timezone: Pacific/Auckland # 新西兰标准时间 (UTC+12)
 ### 2024.09.12
 
 
+今天进行The Network State的第五章的一个阅读，目前还没有完全读完。
+
+简单总结一下已阅读部分的重点。首先是对于nation state的一个定义。作者从Joshua Keating的著作《Invisible Countries》里给出的8个rules出发，总结了传统的nation state的六个要素：边界、人口、中央政府、国际主权、外交承认以及国内暴力垄断。接下来区分了“nation”（强调民族）和“state’（强调政府），并且分别从--定义，实证，哲学的出发点给出了两者的解释。今天目前只阅读完nation的部分，疑问和感想留到读完全部第五章后再整理总结。
+
+### 2024.09.13
+
 <!-- Content_END -->
