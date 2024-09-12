@@ -66,7 +66,9 @@ timezone: Pacific/Auckland # 新西兰标准时间 (UTC+12)
 
 ### 2024.09.11
 
-笔记内容
+- Notes：https://github.com/Chloezhu010/2024/issues/1#issuecomment-2344583820
+- 重新阅读 network state chapter 1
+- 看了一下 Balaji 的 background 和 2013 年的一个演讲
 
 ### 2024.09.12
 

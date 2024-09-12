@@ -22,8 +22,6 @@ timezone: Asia/Shanghai
 
 ### 2024.09.11
 
-
-
 Definition: A network state is a highly aligned online community with a capacity for collective action that crowdfunds territory around the world and eventually gains diplomatic recognition from pre-existing states.
 网络国家是一个高度一致的在线社区，具有集体行动能力，在全球范围内众筹领土，并最终获得原有国家的外交承认。
 
