@@ -181,7 +181,7 @@ https://github.com/user-attachments/assets/84e194e9-e3c3-49be-87e8-4c62dd818926
 | bububut | ✅ | ✅ | | | | | | | | | | | | | | | | | | |   |   |
 | Lorin | ✅ |   | | | | | | | | | | | | | | | | | | |   |   |
 | realgu | ✅ |   | | | | | | | | | | | | | | | | | | |   |   |
-| Lillian | ✅ |   | | | | | | | | | | | | | | | | | | |   |   |
+| Lillian | ✅ | ✅ | | | | | | | | | | | | | | | | | | |   |   |
 | Paris | ✅ |   | | | | | | | | | | | | | | | | | | |   |   |
 | Tristan | ✅ |   | | | | | | | | | | | | | | | | | | |   |   |
 | Stella | ⭕️ |   | | | | | | | | | | | | | | | | | | |   |   |
@@ -206,6 +206,7 @@ https://github.com/user-attachments/assets/84e194e9-e3c3-49be-87e8-4c62dd818926
 | owen | ✅ |   | | | | | | | | | | | | | | | | | | |   |   |
 | char | ⭕️ |   | | | | | | | | | | | | | | | | | | |   |   |
 <!-- END_COMMIT_TABLE -->
+
 
 
 
