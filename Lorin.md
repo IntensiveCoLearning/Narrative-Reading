@@ -91,6 +91,8 @@ timezone: Pacific/Auckland # 新西兰标准时间 (UTC+12)
 
 今天继续第五章，关于“state”的定义，以及后续network state的定义的一部分。这一部分提到了军事角度对于state的定义。作者的设想是依附于现存国家的军力。而在network state的前段部分，也给出了network state的初步定义。
 
+参加共读会 （→ →）
+
 ### 2024.09.14
 
 <!-- Content_END -->
