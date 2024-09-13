@@ -5,49 +5,7 @@ timezone: Asia/Shanghai
 > 请在上边的 timezone 添加你的当地时区，这会有助于你的打卡状态的自动化更新，如果没有添加，默认为北京时间 UTC+8 时区
 > 时区请参考以下列表，请移除 # 以后的内容
 
-timezone: Pacific/Honolulu # 夏威夷-阿留申标准时间 (UTC-10)
 
-timezone: America/Anchorage # 阿拉斯加标准时间 (UTC-9)
-
-timezone: America/Los_Angeles # 太平洋标准时间 (UTC-8)
-
-timezone: America/Denver # 山地标准时间 (UTC-7)
-
-timezone: America/Chicago # 中部标准时间 (UTC-6)
-
-timezone: America/New_York # 东部标准时间 (UTC-5)
-
-timezone: America/Halifax # 大西洋标准时间 (UTC-4)
-
-timezone: America/St_Johns # 纽芬兰标准时间 (UTC-3:30)
-
-timezone: America/Sao_Paulo # 巴西利亚时间 (UTC-3)
-
-timezone: Atlantic/Azores # 亚速尔群岛时间 (UTC-1)
-
-timezone: Europe/London # 格林威治标准时间 (UTC+0)
-
-timezone: Europe/Berlin # 中欧标准时间 (UTC+1)
-
-timezone: Europe/Helsinki # 东欧标准时间 (UTC+2)
-
-timezone: Europe/Moscow # 莫斯科标准时间 (UTC+3)
-
-timezone: Asia/Dubai # 海湾标准时间 (UTC+4)
-
-timezone: Asia/Kolkata # 印度标准时间 (UTC+5:30)
-
-timezone: Asia/Dhaka # 孟加拉国标准时间 (UTC+6)
-
-timezone: Asia/Bangkok # 中南半岛时间 (UTC+7)
-
-timezone: Asia/Shanghai # 中国标准时间 (UTC+8)
-
-timezone: Asia/Tokyo # 日本标准时间 (UTC+9)
-
-timezone: Australia/Sydney # 澳大利亚东部标准时间 (UTC+10)
-
-timezone: Pacific/Auckland # 新西兰标准时间 (UTC+12)
 
 ---
 
@@ -74,6 +32,16 @@ timezone: Pacific/Auckland # 新西兰标准时间 (UTC+12)
 - 这个适销性创造了货币除了交易外的功能：价值储存（而且不会坏掉）
 
 ### 2024.09.12
+
+软通货陷阱：任何物品被当成价值储存的载体，都会造成供应量的增加，进而摧毁价值，所以要担任货币角色的物品，势必在天然或是人为的条件下，限制供应
+
+但另一方面来说，如果这个物品「有可能」被增加，他就有不被信任的风险，这个被增加的过程如果是可控的，且人为不可改变，倒也还好，但如果是人为可以改变，同样也有信任风险
+
+所以黄金早期就被当做价值储存的物品的原因即便如此（人类后来也知道地心很多黄金...所以这可能不是一个永久的解决方案）
+
+也就是说货币物品的硬度跟适销性是会变动的。
+
+这时候出现一个问题，谁选择了正确的货币物品，这个财务才能够跨越时代
 ### 2024.09.13
 ### 2024.09.14
 ### 2024.09.15

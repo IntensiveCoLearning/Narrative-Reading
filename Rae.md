@@ -78,6 +78,16 @@ b. 建立的步骤：Found a startup society, Organize it into a group capable o
 2. 感觉National State的定义非常的前沿，而且有些颠覆性；建立的步骤里已经有很多人在做部分的事情了，比如DAO，比如数字游民社区，比如web3的创业项目...发现脉络居然是这样的
 
 ### 2024.09.12
+今日阅读：
+《The National State》第五章
+收获&笔记：
+1. Why now? 为什么是现在 - 现状和改变
+2. Definition of nation state and nation state system: 传统的国家有地理边界，地球上的每一个点都属于相应的国家，有政府，武力，人民，可以被侵占但是不能被消灭，不会重新多出一个新的国家等 - 这些标准由国家和联合国共同制定
+
+感受：
+1. 之前从来没有认真的想过什么是国家（nation state），现在仔细看了定义和rules觉得非常有意思。而且发现，即使侵略了这个国家，但并不代表这两个合并了，这个也很有意思，国家和民族确实不太一样。
+
+### 2024.09.13
 
 
 <!-- Content_END -->
