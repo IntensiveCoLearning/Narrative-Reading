@@ -88,6 +88,13 @@ b. 建立的步骤：Found a startup society, Organize it into a group capable o
 1. 之前从来没有认真的想过什么是国家（nation state），现在仔细看了定义和rules觉得非常有意思。而且发现，即使侵略了这个国家，但并不代表这两个合并了，这个也很有意思，国家和民族确实不太一样。
 
 ### 2024.09.13
+今日阅读：
+《The National State》第五章
+收获&笔记：
+1. Assumptions of the Nation State System：Physical first，Composition （the people + the state），No terra incognita，Top-down division of land，One state per citizen，Legitimacy from physical control and electoral choice，Centralized administration，Domestic monopoly of violence，International sovereignty via military，Diplomatic recognition via bilateral and multilateral fora，Treaties manage cooperation and constraint，Pax Americana - 一个国家系统里所具有的东西
+2. The Nation State as a Term：民族和国家是不一样的，区别在于 共同的祖先 vs 统治者
+3. Micronations and Multinations（微国家和多国）：更加精确的表达了很多概念：micronation & microstate等）解释了为什么微国家无法发展的原因
 
+### 2024.09.13
 
 <!-- Content_END -->
