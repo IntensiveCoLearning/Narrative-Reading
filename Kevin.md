@@ -74,5 +74,14 @@ timezone: Pacific/Auckland # 新西兰标准时间 (UTC+12)
 
 就我个人而言，网络国家这个概念暂时还没有足够强大的吸引力，不过我依然乐意学习与体验基于区块链的组织，例如LXDAO。
 
+### 2024.09.13
+
+Josh对网络国家的批判振聋发聩，也提出了我心中的疑虑，在那样的国家里，更“原始”，更符合弱肉强食的自然法则，这与我期望的人人恒强还非常遥远。
+
+### 2024.09.14
+
+ > Blockchains and network states have the shared property that they are both trying to "create a new root". --Vitalik, What do I think about network states?
+
+非常赞同，区块链和网络国家似乎都是在建立根基，一个跟世界上其他已有的国家平等的管理员/根用户（root）。
 
 <!-- Content_END -->
