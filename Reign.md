@@ -112,4 +112,8 @@ This process brings back familiar philosophers like Locke, Rousseau, Plato, and 
 随后，**作者审视了几种政治义务的论证，包括契约论的自愿主义、功利主义和公平论。尽管每种理论都未能提供绝对的普遍性，但它们在特定情况下取得了有限成功。契约论解释了部分同意国家的人所承担的特殊责任，而大多数人则因为享受了国家的利益而被认为有义务。功利主义在某些情况下可能被接受，但如果其推论不可接受，则需要依赖其他论证。**
 
 最后，作者指出，**即便国家理论上承认某些人可以免除政治义务，但在实践中很难区分这些人，因此国家通常会假设所有人都有义务。而即便一些人免除政治义务，这也不代表他们可以伤害他人。政府和其他人依然有权保护自己。作者认为，自然状态虽然不可持续，但无政府主义的观点是否被完全驳斥还有待进一步观察。**
+
+### 2024.09.14
+
+The article by Vitalik Buterin explores the concept of "network states," which are digital communities or organizations that may evolve into real-world entities with governance, economic, and social structures. He contrasts these with traditional nation-states and decentralized organizations, discussing how network states could form based on shared values and ideologies. Buterin also highlights the challenges of governance, scalability, and coordination in network states, emphasizing the importance of decentralized decision-making and the potential future role of network states in reshaping political and societal structures.
 <!-- Content_END -->
