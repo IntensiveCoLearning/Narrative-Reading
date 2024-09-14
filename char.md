@@ -114,5 +114,27 @@ Scope: Network States, Chapter 1 & Chapter 5 (First half of 5.3)
 ###### Questions
 - 如果 nation 更强调 shared values，为什么不叫 network nations？通过强调 states，希望获得的是什么呢？政治主权？  --_Stateless nations_ like the Kurds are not nation states because they lack a formally recognized territory and government.
 
+### 2024.09.14
+
+Scope: Network States Chapter 5 & Vitalik's What do I think about network states?
+
+##### What aspects of Balaji's vision do I like?
+1. As a pro-freedom program, it can fight against economic power and wealth concentration
+2. A more rightist approach to Big Compromise Ideas which emphasizes on  shared values, loyalty, religion, physical environments structured to encourage personal discipline ("keto kosher") and hard work. It sheds lights on the possibility for less developed areas.
+	1. common leftist BCI emphasizes on equality and democracy - wealthy white liberals
+3. Governance innovation: using network states to organize in ways that would actually not be possible under existing regulations. 
+	1. Creating new regulatory environments that let their residents have different priorities from the priorities preferred by the mainstream
+	2. Creating new regulatory institutions that might be more efficient at serving the same priorities as the status quo
+	3. Pushing against regulatory conservatism in general, by increasing the chance that there's some jurisdiction that will let you do any particular thing
+##### What aspects of Balaji's vision do I take issue with?
+1. The "founder" thing - why do network states need a recognized founder to be so central?
+2. What if network states end up only serving the wealthy?
+3. "Exit" alone is not sufficient to stabilize global politics. So if exit is everyone's first choice, what happens?
+4. What about global negative externalities more generally?
+
+##### Thoughts & Questions
+1. 对于为什么要建立 network states，是对当前国家体制的不满，因而采取了 tabula rasa 的方式。可是提出新的范式真的不是一种 lazy way 吗？
+2. 提到了 David de Ugarte 的 Phyle，认为是更加强调民主，更左派的愿景。Democracy 的定义是什么？为什么 network states 被认为没有强调民主？
+	1. Phyle：makes them more identitarially important to them than the traditional imaginaries of the imagined communities to which they are supposed to belong   --更强调个体性而非属于某个社区
 
 <!-- Content_END -->
