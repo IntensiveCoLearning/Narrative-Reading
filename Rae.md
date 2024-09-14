@@ -95,6 +95,11 @@ b. 建立的步骤：Found a startup society, Organize it into a group capable o
 2. The Nation State as a Term：民族和国家是不一样的，区别在于 共同的祖先 vs 统治者
 3. Micronations and Multinations（微国家和多国）：更加精确的表达了很多概念：micronation & microstate等）解释了为什么微国家无法发展的原因
 
-### 2024.09.13
+### 2024.09.14
+今日阅读：Green Pill 博客编译：激进区块链
+收获 & 笔记：
+1. （今天真的看不动了呜呜呜打个卡表示一下态度，明天再看！！！！！)
 
+
+### 2024.09.15
 <!-- Content_END -->
