@@ -73,5 +73,32 @@ The Network State Chapter 5
 参加了读书会，定慧的分享非常有趣，Connie的主持也很用心。期待下一次
 
 
+### 2024.09.15
+
+
+才发现13号打卡失败，因为复制日期后忘了改，额。
+
+
+今天看了vitalik关于网络国家的文章，很有意思，边看边记：
+
+1. 有两种建造网络国家的选择：lifestyle immersion 或者 pro-tech regulatory innovation。前者以某种生活方式为主题，比如控制糖分摄入。后者强调放松监管，特别是科技、生物医药行业。听起来让人想起改革开放初期的经济特区模式。
+2. v说这本书其实讲了两件事，一是关于网络国家，二是balaji自己的政治模型：ccp/nyt/btc三角，也非常有意思。
+3. v基本赞成网络国家的构想，可以视其为一种政治体制备选方案，plan b
+4. v解释了为什么crypto在这个体系中非常重要。其一是作为一种信仰，crypto本身的无国界、开放、自由、抗审查、credible neutral，加在一起能成为成员们的共同信仰。其二是可以进行链上治理，并且智能合约代码可以拥有法院的仲裁地位
+5. 看到这个小标题我直接笑喷了：But what about this particular baizuo that's currently writing this review? Do network states actually interest me? 这起码说明了两件事：
+ - v真的用中文上网
+ - v对自己的政治立场很清醒
+6. v赞同balaji的部分观点，最看好网络国家的宽松监管特点
+7. v批判了四条balaji的观点。
+  - 强势的创始人真的有益么？（第一次知道纽约时报一直被创始人家族把持了五代）
+  - 富人可以轻易前往别的国家，以及新生的网络国家；穷人们怎么办？nowhere to run
+8. v的改进意见
+  - 要有创始人放权机制
+  - coin-driven governance不行，光靠用币投票是无法有效治理的
+  - commitment to being friendly
+9. 最后，v的观点in a line: My judgement so far is that network states are great, but they are far from being a viable Big Compromise Idea that can actually plug all the holes needed to build the kind of world I and most of my readers would want to see in the 21st century. Ultimately, I do think that we need to bring in more democracy and large-scale-coordination oriented Big Compromise Ideas of some kind to make network states truly successful.
+
+
+明天打算把nick szabo的文章看了
 
 <!-- Content_END -->
