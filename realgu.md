@@ -67,7 +67,7 @@ The Network State Chapter 5
 所以crypto为什么是network state不可分割的一部分呢？还没读到
 
 
-### 2024.09.12
+### 2024.09.13
 
 
 参加了读书会，定慧的分享非常有趣，Connie的主持也很用心。期待下一次
