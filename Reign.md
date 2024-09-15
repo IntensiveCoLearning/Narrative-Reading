@@ -75,8 +75,8 @@ This innovative approach blends digital-first community-building with real-world
 Many people assume they understand the concept of a nation-state, but upon closer examination, the distinction between "nation" and "state" becomes clearer, along with the confusion surrounding modern terminology. Different human organizational forms may challenge the nation-state, paving the way for "network states."
 
 This process brings back familiar philosophers like Locke, Rousseau, Plato, and Aristotle. Unlike traditional approaches, the network state treats political science as "applied science" or "political technology." Just as cryptocurrency has popularized financial theory, crypto-states offer a platform for practical political theory. The network state operates on different assumptions from the nation-state system.
-### 2024.09.12
 
+### 2024.09.12
 
 **1. 经济和政治觉醒**
    - **背景**：2008 年金融危机重创 Josh 的家庭经济，塑造了他对经济不公和社会运动的关注。他支持全民基本收入、全民医保、反战等进步议题，最初通过网络和维基百科了解政治和社会问题。
@@ -98,4 +98,30 @@ This process brings back familiar philosophers like Locke, Rousseau, Plato, and 
 
 **6. 结论**
    - **寻找中间路径**：Josh 的书试图在加密领域的两极之间找到一个中间立场，通过批判和创新，构建一种既能实现经济协调，又能推动社会进步的区块链未来。他倡导用区块链技术减少投机行为，推动公共利益，最终实现对资本主义体系的深刻变革。
+
+### 2024.09.13
+
+**这里探讨了政治义务和自然状态的问题，首先从霍布斯的观点出发**，他认为在自然状态中，个人因追求幸福而不可避免地卷入争夺稀缺资源的战争。他提出，在没有主权者的情况下，这种冲突最终会演变为全面战争。
+
+**洛克对此提出反驳**，认为自然状态是受道德法则约束的，人们可以强制执行这一法则，并且自然状态中并非处于稀缺，而是富足。他还假设人类会受到道德驱动，但洛克也承认道德法则并不能完全避免冲突，只是推迟了战争的爆发。
+
+**卢梭部分支持洛克的观点**，认为霍布斯错误地假设自然状态是极端匮乏的，但他否认道德在自然状态中的地位。他认为人类的同情心可以抑制战争，而不是道德法则。
+
+**无政府主义者则更加乐观**，认为即使在自然状态下，合作仍有可能通过自利的行为逐渐形成，或者通过设计出没有国家的社会结构来解决自然状态的缺陷。尽管他们的理论有力，但无政府主义与对国家的辩护之间的界限却越来越模糊。
+
+随后，**作者审视了几种政治义务的论证，包括契约论的自愿主义、功利主义和公平论。尽管每种理论都未能提供绝对的普遍性，但它们在特定情况下取得了有限成功。契约论解释了部分同意国家的人所承担的特殊责任，而大多数人则因为享受了国家的利益而被认为有义务。功利主义在某些情况下可能被接受，但如果其推论不可接受，则需要依赖其他论证。**
+
+最后，作者指出，**即便国家理论上承认某些人可以免除政治义务，但在实践中很难区分这些人，因此国家通常会假设所有人都有义务。而即便一些人免除政治义务，这也不代表他们可以伤害他人。政府和其他人依然有权保护自己。作者认为，自然状态虽然不可持续，但无政府主义的观点是否被完全驳斥还有待进一步观察。**
+
+### 2024.09.14
+
+The article by Vitalik Buterin explores the concept of "network states," which are digital communities or organizations that may evolve into real-world entities with governance, economic, and social structures. He contrasts these with traditional nation-states and decentralized organizations, discussing how network states could form based on shared values and ideologies. Buterin also highlights the challenges of governance, scalability, and coordination in network states, emphasizing the importance of decentralized decision-making and the potential future role of network states in reshaping political and societal structures.
+
+### 2024.09.15
+
+**Definition of Network States:** Network states are communities organized through the internet that can eventually gain physical territory.
+**Collective Action:** Digital communities use collective action to pursue shared goals, forming a potential "network state."
+**Coordination Tools:** Blockchain, DAOs, and cryptocurrency are tools to enable decentralized governance.
+**Governance Evolution:** These states challenge traditional national governance structures.
+**Future Vision:** Network states can redefine sovereignty, creating virtual nations with real-world impact.
 <!-- Content_END -->

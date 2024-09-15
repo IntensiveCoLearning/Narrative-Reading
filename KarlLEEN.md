@@ -5,50 +5,49 @@ timezone: Asia/Shanghai
 > 请在上边的 timezone 添加你的当地时区，这会有助于你的打卡状态的自动化更新，如果没有添加，默认为北京时间 UTC+8 时区
 > 时区请参考以下列表，请移除 # 以后的内容
 
-timezone: Pacific/Honolulu # 夏威夷-阿留申标准时间 (UTC-10)
+timezone: Pacific/Honolulu #
 
-timezone: America/Anchorage # 阿拉斯加标准时间 (UTC-9)
+timezone: America/Anchorage #
 
-timezone: America/Los_Angeles # 太平洋标准时间 (UTC-8)
+timezone: America/Los_Angeles #
 
-timezone: America/Denver # 山地标准时间 (UTC-7)
+timezone: America/Denver # 
 
-timezone: America/Chicago # 中部标准时间 (UTC-6)
+timezone: America/Chicago # 
 
-timezone: America/New_York # 东部标准时间 (UTC-5)
+timezone: America/New_York # 
 
-timezone: America/Halifax # 大西洋标准时间 (UTC-4)
+timezone: America/Halifax # 
 
-timezone: America/St_Johns # 纽芬兰标准时间 (UTC-3:30)
+timezone: America/St_Johns # 
 
-timezone: America/Sao_Paulo # 巴西利亚时间 (UTC-3)
+timezone: America/Sao_Paulo # 
 
-timezone: Atlantic/Azores # 亚速尔群岛时间 (UTC-1)
+timezone: Atlantic/Azores # 
 
-timezone: Europe/London # 格林威治标准时间 (UTC+0)
+timezone: Europe/London # 
 
-timezone: Europe/Berlin # 中欧标准时间 (UTC+1)
+timezone: Europe/Berlin # 
 
-timezone: Europe/Helsinki # 东欧标准时间 (UTC+2)
+timezone: Europe/Helsinki # 
 
-timezone: Europe/Moscow # 莫斯科标准时间 (UTC+3)
+timezone: Europe/Moscow # 
 
-timezone: Asia/Dubai # 海湾标准时间 (UTC+4)
+timezone: Asia/Dubai # 
 
-timezone: Asia/Kolkata # 印度标准时间 (UTC+5:30)
+timezone: Asia/Kolkata # 
 
-timezone: Asia/Dhaka # 孟加拉国标准时间 (UTC+6)
+timezone: Asia/Dhaka # 
 
-timezone: Asia/Bangkok # 中南半岛时间 (UTC+7)
+timezone: Asia/Bangkok # 
 
-timezone: Asia/Shanghai # 中国标准时间 (UTC+8)
+timezone: Asia/Shanghai # 
 
-timezone: Asia/Tokyo # 日本标准时间 (UTC+9)
+timezone: Asia/Tokyo #
 
-timezone: Australia/Sydney # 澳大利亚东部标准时间 (UTC+10)
+timezone: Australia/Sydney # 
 
-timezone: Pacific/Auckland # 新西兰标准时间 (UTC+12)
-
+timezone: Pacific/Auckland # 
 ---
 
 # KarlLEEN
@@ -124,5 +123,44 @@ purpose: bridge
 政治哲学 
    导论：政治哲学只有两个问题:谁得到什么?谁有发言权?这种说法并不完全正 确，但也没有太大问题，完全可以作为一个有用的出发点
       政治哲学家的任务之一就在于确定自主性与权威之间恰当的平衡，或者换句话说，确定政治权力的恰当范围与分配
+### 2024.09.13
 
+（13号的内容 title写错成14号 才发现）
+   
+### 2024.09.14
+The Network State - chapter 5
+探讨了民族国家（nation state）的概念及其复杂性，同时引入了网络国家（network state）的概念。以下是文章的主要内容总结：
+
+1. **民族国家的定义**：民族国家通常被定义为一个地理区域，由一个被称为政府的人类群体统治，并且这个政府代表着一个特定的人民群体。
+
+2. **民族国家体系**：文章通过Joshua Keating在其著作《Invisible Countries》中提出的类比，将民族国家体系比作一个有选择性的俱乐部，有八条规则定义了国家的相互认可和运作方式。
+
+3. **民族国家体系的假设**：包括世界地图的首要性、单一民族国家的理论构成、没有未知领域或无主之地、自上而下的领土划分、每个公民通常只有一个国家、合法性来源、中央集权的行政管理、国内对暴力的垄断、通过军事维护的国际主权、通过双边和多边论坛的外交认可、通过条约管理合作和约束、以及美国作为当前民族国家体系的担保者。
+
+4. **民族与国家的区分**：文章强调了民族（拥有共同血统、历史、文化或语言的群体）和国家（政府）之间的区别。
+
+5. **民族和国家的不同形态**：讨论了从微型国家（micronations）到多民族帝国（empires）的不同形态，以及介于两者之间的单民族国家（1-nation states）。
+
+6. **民族的定义**：探讨了民族的定义，包括牛津词典的定义和不同学者的观点，以及民族的实证和哲学方法。
+
+7. **国家的定义**：讨论了国家的定义，包括定义性方法、比较方法、实用方法和哲学方法。
+
+8. **民族国家在地图上的表现**：讨论了民族国家在地图上的表现，以及不同民族和国家的分布情况。
+
+9. **现代民族国家的创立**：探讨了民族国家是如何在历史上形成和创立的，包括关键的历史时刻和不同的创立方式。
+
+10. **民族国家的扩张与收缩**：讨论了民族国家如何通过人口增长、地理征服、经济扩张和意识形态传播来扩张，以及它们如何收缩。
+
+11. **国家与民族的相互影响**：讨论了民族如何创建国家，以及国家如何反过来影响民族。
+
+12. **非民族国家实体**：描述了不是民族国家的其他大规模人类组织形式，如多民族帝国、无国家民族、跨国运动、恐怖组织、游牧部落、多管辖公司、民族侨民和超国家实体。
+
+13. **支持现代民族国家体系的技术发展**：讨论了地图制作、印刷和射击技术如何支撑现代民族国家体系。
+
+ conclusion：尽管我们生活在一个民族国家的世界里，但技术发展，特别是互联网和数字货币的出现，为新的组织形式，如网络国家，提供了可能性。这些新兴的组织形式可能会挑战传统的民族国家概念。
+### 2024.09.15
+What do I think about network states?
+   网络国家的定义：Balaji将网络国家描述为具有集体行动能力的高凝聚力在线社区，它们通过众筹在全球范围内获得领土，并最终获得现有国家的外交认可
+   Vitalik的担忧：他表达了对网络国家概念的支持，但也提出了一些担忧，包括网络国家可能过于依赖创始人、可能只服务于富人、以及全球负面外部性的问题
+   Vitalik讨论了加密货币与网络国家在精神和实用层面上的联系，认为区块链技术可以为网络国家提供基础设施
 <!-- Content_END -->

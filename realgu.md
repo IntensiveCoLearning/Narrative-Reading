@@ -2,52 +2,6 @@
 timezone: Asia/Shanghai
 ---
 
-> 请在上边的 timezone 添加你的当地时区，这会有助于你的打卡状态的自动化更新，如果没有添加，默认为北京时间 UTC+8 时区
-> 时区请参考以下列表，请移除 # 以后的内容
-
-timezone: Pacific/Honolulu # 夏威夷-阿留申标准时间 (UTC-10)
-
-timezone: America/Anchorage # 阿拉斯加标准时间 (UTC-9)
-
-timezone: America/Los_Angeles # 太平洋标准时间 (UTC-8)
-
-timezone: America/Denver # 山地标准时间 (UTC-7)
-
-timezone: America/Chicago # 中部标准时间 (UTC-6)
-
-timezone: America/New_York # 东部标准时间 (UTC-5)
-
-timezone: America/Halifax # 大西洋标准时间 (UTC-4)
-
-timezone: America/St_Johns # 纽芬兰标准时间 (UTC-3:30)
-
-timezone: America/Sao_Paulo # 巴西利亚时间 (UTC-3)
-
-timezone: Atlantic/Azores # 亚速尔群岛时间 (UTC-1)
-
-timezone: Europe/London # 格林威治标准时间 (UTC+0)
-
-timezone: Europe/Berlin # 中欧标准时间 (UTC+1)
-
-timezone: Europe/Helsinki # 东欧标准时间 (UTC+2)
-
-timezone: Europe/Moscow # 莫斯科标准时间 (UTC+3)
-
-timezone: Asia/Dubai # 海湾标准时间 (UTC+4)
-
-timezone: Asia/Kolkata # 印度标准时间 (UTC+5:30)
-
-timezone: Asia/Dhaka # 孟加拉国标准时间 (UTC+6)
-
-timezone: Asia/Bangkok # 中南半岛时间 (UTC+7)
-
-timezone: Asia/Shanghai # 中国标准时间 (UTC+8)
-
-timezone: Asia/Tokyo # 日本标准时间 (UTC+9)
-
-timezone: Australia/Sydney # 澳大利亚东部标准时间 (UTC+10)
-
-timezone: Pacific/Auckland # 新西兰标准时间 (UTC+12)
 
 ---
 
@@ -111,4 +65,40 @@ The Network State Chapter 5
 
 
 所以crypto为什么是network state不可分割的一部分呢？还没读到
+
+
+### 2024.09.13
+
+
+参加了读书会，定慧的分享非常有趣，Connie的主持也很用心。期待下一次
+
+
+### 2024.09.15
+
+
+才发现13号打卡失败，因为复制日期后忘了改，额。
+
+
+今天看了vitalik关于网络国家的文章，很有意思，边看边记：
+
+1. 有两种建造网络国家的选择：lifestyle immersion 或者 pro-tech regulatory innovation。前者以某种生活方式为主题，比如控制糖分摄入。后者强调放松监管，特别是科技、生物医药行业。听起来让人想起改革开放初期的经济特区模式。
+2. v说这本书其实讲了两件事，一是关于网络国家，二是balaji自己的政治模型：ccp/nyt/btc三角，也非常有意思。
+3. v基本赞成网络国家的构想，可以视其为一种政治体制备选方案，plan b
+4. v解释了为什么crypto在这个体系中非常重要。其一是作为一种信仰，crypto本身的无国界、开放、自由、抗审查、credible neutral，加在一起能成为成员们的共同信仰。其二是可以进行链上治理，并且智能合约代码可以拥有法院的仲裁地位
+5. 看到这个小标题我直接笑喷了：But what about this particular baizuo that's currently writing this review? Do network states actually interest me? 这起码说明了两件事：
+ - v真的用中文上网
+ - v对自己的政治立场很清醒
+6. v赞同balaji的部分观点，最看好网络国家的宽松监管特点
+7. v批判了四条balaji的观点。
+  - 强势的创始人真的有益么？（第一次知道纽约时报一直被创始人家族把持了五代）
+  - 富人可以轻易前往别的国家，以及新生的网络国家；穷人们怎么办？nowhere to run
+8. v的改进意见
+  - 要有创始人放权机制
+  - coin-driven governance不行，光靠用币投票是无法有效治理的
+  - commitment to being friendly
+9. 最后，v的观点in a line: My judgement so far is that network states are great, but they are far from being a viable Big Compromise Idea that can actually plug all the holes needed to build the kind of world I and most of my readers would want to see in the 21st century. Ultimately, I do think that we need to bring in more democracy and large-scale-coordination oriented Big Compromise Ideas of some kind to make network states truly successful.
+
+
+明天打算把nick szabo的文章看了
+
 <!-- Content_END -->
