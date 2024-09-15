@@ -116,4 +116,12 @@ This process brings back familiar philosophers like Locke, Rousseau, Plato, and 
 ### 2024.09.14
 
 The article by Vitalik Buterin explores the concept of "network states," which are digital communities or organizations that may evolve into real-world entities with governance, economic, and social structures. He contrasts these with traditional nation-states and decentralized organizations, discussing how network states could form based on shared values and ideologies. Buterin also highlights the challenges of governance, scalability, and coordination in network states, emphasizing the importance of decentralized decision-making and the potential future role of network states in reshaping political and societal structures.
+
+### 2024.09.15
+
+**Definition of Network States:** Network states are communities organized through the internet that can eventually gain physical territory.
+**Collective Action:** Digital communities use collective action to pursue shared goals, forming a potential "network state."
+**Coordination Tools:** Blockchain, DAOs, and cryptocurrency are tools to enable decentralized governance.
+**Governance Evolution:** These states challenge traditional national governance structures.
+**Future Vision:** Network states can redefine sovereignty, creating virtual nations with real-world impact.
 <!-- Content_END -->

@@ -75,5 +75,7 @@ timezone: Pacific/Auckland # 新西兰标准时间 (UTC+12)
    - 在它的宏达叙事下，如果真的从落地角度看，目前它看着仍然像是科技精英的游戏，得是“有闲阶级”（有闲钱、空余的时间和闲心）才能飞去各个国家参与为期1-2月或更久的 popup city or so。延展至普通人，popup city 对于他们的意义和必要性是什么？数字游民也可以加入，但数字游民本身也是具备 privilege 的一个群体，至少是有一门“数字手艺”可以养活自己并有一定闲钱才可以到处 travel。
    - 对于一个出租车司机 or 清洁工而言，ta 需要加入 network state 的理由和动机是什么呢？
 
+### 09.14
+- VB 对于 network states 评论的 blog 阅读笔记：https://github.com/Chloezhu010/2024/issues/1#issuecomment-2351157423
 
 <!-- Content_END -->
