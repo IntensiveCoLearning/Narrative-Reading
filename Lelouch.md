@@ -56,6 +56,9 @@ timezone: Asia/Shanghai
 
 ### 2024.09.14
 - Vitalik：What do I think about network states?
+- 
+### 2024.09.15
+今日未学习……
 
 
 <!-- Content_END -->
