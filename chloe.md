@@ -78,4 +78,13 @@ timezone: Pacific/Auckland # 新西兰标准时间 (UTC+12)
 ### 09.14
 - VB 对于 network states 评论的 blog 阅读笔记：https://github.com/Chloezhu010/2024/issues/1#issuecomment-2351157423
 
+### 09.15
+Links/ Source/ Concepts mentioned that I want to look into
+LessWrong: https://www.lesswrong.com/ an online forum and community focused on improving human reasoning and decision-making. It was founded in 2009 by Eliezer Yudkowsky, an AI researcher and writer.
+A conservative futurist and a supply-side liberal walk into a podcast: https://www.nytimes.com/2024/05/21/opinion/ezra-klein-podcast-james-pethokoukis.html
+80,000 hours podcast: https://80000hours.org/podcast/episodes/
+Economic Democracy in the Network Century bh David de Ugarte
+Functional decision theory
+Blockchain voting: https://vitalik.eth.limo/general/2021/05/25/voting2.html
+
 <!-- Content_END -->
