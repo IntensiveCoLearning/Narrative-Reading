@@ -51,7 +51,7 @@ timezone: Pacific/Auckland # 新西兰标准时间 (UTC+12)
 
 ---
 
-# {在这里写你的名字}
+# Swift Evo
 
 1. 简单自我介绍
 
@@ -119,6 +119,10 @@ https://matters.town/a/1v4oh2jn56r6?utm_source=share_native
 到他朝，小國政權更替，所謂的區塊鏈經濟特區就會一夜變更，究其原因，也是軍隊。
 
 槍桿子裡出政權。
+
+### 2024.09.14
+
+【可以在这里补充打卡内容】
 
 ### 2024.09.15
 
