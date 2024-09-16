@@ -79,5 +79,20 @@ Balaji提到他最大的inspo是以色列，但以色列必須不斷的秀他們
 2. 用ENS domain來開實體的門鎖
 3. 用deposit進NS的方式，用戶自己可以掌握如果有bad behavior會被剝奪的權利範圍。不過最終還是要有實體的警察系統，可能是無人機、機器狗等等...
 
+### 2024.09.15 Network state CH5
+
+Network State System
+1. Digital first.
+2. Composition: national + governance network
+3. Terra incognita returns
+4. Terra nullius returns 不歸之地：新的地域產生在新的domain，ens…
+5. N networks per citizen
+6. Legitimacy from physical migration and digital choice.加密技術保障言論自由，私人財產等等
+7. Decentralized administration：composed of founders and engineers。他們將法律寫入智能合約以規範什麼事必須、鼓勵、不鼓勵，禁止的。依據用戶所在地及數位資產的所在地，用戶可以任意切換他們所屬的ＮＳ
+8. Domestic monopoly of root access。用戶擁有private key (不受外部勢力干擾），或是能enabling exit (公民可以投信任票）
+9. International sovereignty via cryptography. ＮＳ主權就是私鑰。加密技術的重要性為該NS的國防技術
+10. Digital diplomatic recognition. NS可以雙邊或多邊承認（類似Api技術）即使離開貨轉換不同的NS，只要擁有私鑰還是可以取得線上與線下資產，甚至是state chain上的個人資料（這邊講的就是現在的DID技術）。NS彼此間是否有外交承認，體現於是否有交互性與兼容性。可以看他們是否對另一個NS的資料有相容的format或是承認上面的資訊。
+11. Chains manage cooperation and constraint：公共區塊鏈可視為國際法
+12. Pax Bitcoinica：比特幣會是所有ＮＳ政府的政府。他能限制不過度印鈔。即使他最後失敗，他所代表的意義也不會消失
 
 <!-- Content_END -->
