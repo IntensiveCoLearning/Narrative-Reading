@@ -68,7 +68,8 @@ Vitalik对The Network State这本书的评论，前年我就在当时的Greenpil
 如果小规模的DAO都如此举步维艰，何况Network State？
 
 
-
+### 2024.09.17
+今天中秋聚餐休息
 
 
 
