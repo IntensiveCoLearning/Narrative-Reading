@@ -79,7 +79,7 @@ Balaji提到他最大的inspo是以色列，但以色列必須不斷的秀他們
 2. 用ENS domain來開實體的門鎖
 3. 用deposit進NS的方式，用戶自己可以掌握如果有bad behavior會被剝奪的權利範圍。不過最終還是要有實體的警察系統，可能是無人機、機器狗等等...
 
-### 2024.09.15 Network state CH5
+### 2024.09.16 Network state CH5
 
 Network State System
 1. Digital first.

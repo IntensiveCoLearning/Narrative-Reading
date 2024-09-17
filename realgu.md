@@ -101,4 +101,20 @@ The Network State Chapter 5
 
 明天打算把nick szabo的文章看了
 
+
+### 2024.09.16
+看完了Nick Szabo的大作 trusted thrid parties are security holes
+
+
+说实话很多部分看的似懂非懂。Szabo批判了一番certificate authority，许多内容需要对计算机安全有挺深入的了解才能看懂。
+
+
+Personal Property Has Not and Should Not Depend On TTPs 这一段很有趣。Szabo举了三个无需trusted third party也能独立运行的财产：珠宝，钥匙，个人电脑。Making personal property functionality dependent on trusted third parties is in most cases quite unacceptable.这句让读者隐隐嗅到了比特币的气味
+
+
+接下来两段还提到了byzantine fault tolerant system，和Hal Finney的bit gold  
+
+
+好家伙，难怪Szabo是中本聪的最热门人选。Hal Finney是比特币的第一批用户，帮中本聪一起debug，并且受到了历史上第一笔比特币转账--直接来自中本聪。
+
 <!-- Content_END -->
