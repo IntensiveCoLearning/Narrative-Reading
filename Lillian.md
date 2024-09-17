@@ -95,4 +95,8 @@ Network State System
 11. Chains manage cooperation and constraint：公共區塊鏈可視為國際法
 12. Pax Bitcoinica：比特幣會是所有ＮＳ政府的政府。他能限制不過度印鈔。即使他最後失敗，他所代表的意義也不會消失
 
+### 2024.09.17 Network state CH5
+今天真的太忙，有聽了上週五的線上討論影片但只聽了一半，明天會補上心得。
+
+
 <!-- Content_END -->
