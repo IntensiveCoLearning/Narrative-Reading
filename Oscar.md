@@ -84,5 +84,13 @@ timezone: Asia/Shanghai
 
 ### 2024.09.18
 
+- 学习主题：[《Trusted Third Parties are Security Holes》](https://nakamotoinstitute.org/library/trusted-third-parties/) 泛读
+  - [中文翻译版](https://mp.weixin.qq.com/s/hQ63wchRuXgwwFicMjW1Tg)
+  - 根深蒂固的利益网。受信任第三方机构养活着成千上万的技术人员。例如：创造和运行着传统控制结构的审计师 “军团” 和进行法律保护的律师 “军团”。这些利益相关者自然而然地去辩护这类假设需要他们来实现真正安全的模型。在像电子商务这样的新领域，他们当然会倾向于一种基于安全第三方的新商业模型（如：应用服务提供商），而不是花时间去学习一种会挑战到他们生计的新技术。
+  - 精神交易成本（Mental Transaction Cost）。信任，就像口味一样，是一种主观的判断。
+  - 私人财产没有依赖受信任第三方，也不应依赖受信任第三方。
+
+
+
 <!-- Content_END -->
 
