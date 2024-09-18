@@ -17,7 +17,7 @@
 报名方式是完全基于 GitHub 的流程，通过提交 PR 进行申请，合并 PR 之后拥有更新权限。如果你不熟悉 GitHub 和 Git 的操作，[这里有个指南](https://www.notion.so/lxdao/GitHub-53fca5ba49bb40c69e4e40e69f58f416)。
 
 关于更多「残酷共学」的介绍请参见：https://forum.lxdao.io/t/topic/1654
-
+ 
 关于更多正在发生的残酷共学请参见：https://intensivecolearn.ing/ 
 
 如果你有对"残酷共学"项目有疑问或者想法，请到 [残酷共学 Telegram 群](https://t.me/LXDAO/6215) 联系我们。有关叙事残酷共学讨论请在 [Narrative Reading Group TG 群](https://t.me/LXDAO/3333)交流。
