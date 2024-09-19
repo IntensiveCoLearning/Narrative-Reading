@@ -99,4 +99,32 @@ Network State System
 今天真的太忙，有聽了上週五的線上討論影片但只聽了一半，明天會補上心得。
 
 
+### 2024.09.18 Network state CH5
+
+5.3.3 The Network State as a Term
+1. The network is the nation
+2. The network is the territory. The territory of a network state as a subnetwork of the open metaverse.
+3. The network is the state. create and enforce laws digitally but onchain
+4. The Network is the Leviathan利維坦：community and cryptography是霍布斯的利維坦
+
+> So: in a network state, the network is the lives (national network), the land (metaverse
+subnet), the law (governance network), and the Leviathan (Bitcoin network) all packed
+into one. It’s the people, the digital territory they occupy, the rules that bind them,
+and the power that enforces those laws.
+>
+> 5.3.4 Micronetworks and Multinetworks
+
+Startups create Networks, but Nations create States
+Micronetworks: 沒有使用者的新創
+Multinetworks: 像facebook擁有很多使用者但組織成在fb底下的多個組織。聯邦的概念
+先有人和土地才有國家
+
+Startups create Networks, but Startups aren’t States
+
+Startups create Centralized Networks, but Chains create Decentralized Networks
+Free the backend.
+Free the login
+
+Only Decentralized Networks can give rise to Network States
+
 <!-- Content_END -->
