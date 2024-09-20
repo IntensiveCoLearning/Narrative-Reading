@@ -175,6 +175,6 @@ https://www.notion.so/lxdao/b222ba85eeef46aa9cae26d3f9032966
 
 ### 2024.09.20
 
-参与了共读会，棒棒棒
+参与了共读会，棒棒棒。就是比较累。明天继续读书。
 
 <!-- Content_END -->
