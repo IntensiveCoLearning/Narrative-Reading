@@ -130,5 +130,21 @@ Personal Property Has Not and Should Not Depend On TTPs 这一段很有趣。Sza
 
 2. ‘根据苏联和东欧的实际例子显示，也许他们最悲惨的结果就是彻底破坏当地的公民社会，这种破坏一旦发生，就严重阻碍了市场经济和稳定民主制度的兴起。风列宁思想为圭臬的国家刻意摧毁其政权的一切竞争者，从控制经济的指挥大人，到无数的农场、小企业、工会、教会、报社、自愿性联署机构，以及家庭本身，莫不遭到国家的打压。’确实，这也是为什么互联网、区块链这样的技术不会诞生在威权主义国家。
 
+
+### 2024.09.20
+今天打算把ken thompson的文章看了，一会要去看f1，可以参加不了研讨会。晚点来把笔记补了
+
+### 2024.09.21
+看了reflections on trusting trust，神文，看完汗流浃背了
+
+
+ken今年已经81岁了，a living legend in computer sciences，在六十年代一人手搓了第一版unix系统；ken觉得Unix需要一个编程语言，便创造了B语言；后来他的同事、好哥们dennis richie在B语言的基础上创造了C语言。
+
+
+文章惊悚的点在于，即使source code看起来安全，compiler binary也完全可以神不知鬼不觉地在编译时混入后门，并且后门会世世代代的流传下去。No amount of
+source-level verification or scrutiny will protect you from using untrusted code
+
+
+这样的情况也许已经发生了
    
 <!-- Content_END -->
