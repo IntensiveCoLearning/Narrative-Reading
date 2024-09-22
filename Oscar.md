@@ -118,7 +118,7 @@ timezone: Asia/Shanghai
   - Karma 更偏向社群内的人际信任和主观评价，强调参与者之间的关系。
   - 思考：或许没有最佳，只有当下最优解。人的信任、制度的信任、机器的信任如何融合，有机组合，动态平衡。
 
-### 2024.09.21
+### 2024.09.22
 
 - 学习主题: [Credible Neutrality As A Guiding Principle](https://nakamoto.com/credible-neutrality/) 阅读
   - 可信中立性：以太坊治理的指导原则。
