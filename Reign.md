@@ -244,5 +244,57 @@ The article by Vitalik Buterin explores the concept of "network states," which a
 5. **信任与创新**
    本章最后探讨了信任与创新之间的关系。福山认为，高信任社会为创新提供了更加有利的环境，因为信任降低了创新过程中的沟通和协调成本，使得不同部门和组织能够更有效地合作。然而，在低信任社会中，创新的推动往往受到阻碍，企业更倾向于保守策略，难以吸引外部资源或打破内部的等级结构。
 
+### 2024.09.22
+
+### Summary of TTP Minimization Challenges and Methodology
+
+1. **Practical Challenges of Commercial Security**:
+   - Focus on maintaining privacy, integrity, and property protection.
+   - Security holes are vulnerabilities that compromise these objectives.
+   - Relying on trusted third parties (TTPs) introduces vulnerabilities that increase costs.
+
+2. **Risks and Costs of TTPs**:
+   - Failing to consider TTP risks can lead to unfeasible systems.
+   - Extensive effort is required to mitigate risks associated with TTPs.
+
+3. **Proposed Methodology**:
+   - Emphasize minimizing TTP costs and risks in protocol design.
+   - Design TTPs in parallel with protocols for optimization.
+
+4. **High Costs of TTPs**:
+   - Example: Certificate authorities (CAs) in public key infrastructures (PKIs) are costly and time-consuming.
+   - CAs verify identities but are the most expensive part of centralized PKIs.
+   - The DNS is another risky TTP, susceptible to disputes due to its centralized nature.
+
+5. **Established TTPs and Their Limitations**:
+   - TTPs like Visa and Underwriter's Laboratories form a backbone for the economy but are not adaptable to new technologies.
+   - Creating new TTPs is costly; thus, minimizing reliance on existing ones is more efficient.
+
+6. **Reasons for Favoring Costly TTPs**:
+   - **Design Convenience**: Easier to rely on TTPs than to create TTP-independent solutions.
+   - **Power and Ambition**: Desire to establish a dominant TTP can motivate reliance on traditional models.
+   - **Entrenched Interests**: Professionals benefit from existing TTP structures and resist change.
+   - **Mental Transaction Costs**: Customers find it easier to trust established TTPs, despite the risk of future unreliability.
+
+7. **Historical Context of Personal Property**:
+   - Personal property has traditionally been self-sufficient and controlled by owners, without TTP dependence.
+   - Resistance to TTP reliance persists in consumer behavior.
+
+8. **Key Points of TTP Minimizing Methodology**:
+   - **Cost Focus**: Estimate TTP costs from the start.
+   - **Elimination of TTPs**: Prioritize protocols that reduce or eliminate TTP costs.
+   - **Assumption Analysis**: Identify specific roles and risks associated with TTPs.
+   - **Design Costs vs. Protocol Costs**: Minimizing TTP reliance can be complex but is often more cost-effective than creating new TTPs.
+   - **User Mental Transaction Costs**: Automate reputation tracking for multiple TTPs.
+   - **Mathematics Over Tradition**: Use mathematical methods to replace complex TTPs.
+   - **Holistic Knowledge**: Combine expertise in various fields to minimize dependency on costly techniques.
+
+9. **Research and Implementation Areas**:
+   - **Chaum Mixes**: Enhance privacy by allowing proxy communications without third-party tracing.
+   - **Multiparty Private Computations**: Distribute computation across parties, maintaining privacy.
+   - **Byzantine Resilient Replicated Databases**: Ensure data integrity and security in applications like name registries.
+
+#### Conclusion
+The methodology advocates for a paradigm shift in security protocol design, focusing on minimizing TTP costs and risks to develop more effective and efficient security solutions.
 
 <!-- Content_END -->
