@@ -87,4 +87,9 @@ SeeDAO公众号今天发布了定慧撰写的网络国家的最新版，我又�
 
 自二十世纪中海德格在内的多名哲学家展开「历史终结论」的讨论，学者一再认为世界已经找到最佳模式，最近的一次是由法兰西斯・福山（Francis Fukuyama）扩充1989 年的论文《历史的终结？ 》（The End of History?），于1992 年出版的《历史之终结与最后之人》（ The End of History and the Last Man ）所提出。当时几十年的冷战结束，苏联解体，福山认为西方国家的自由民主体制是人类社会的最终型态，然而接下来的廿多年，中国经济崛起，美国2008 年次按风暴凸显货币滥发对全球带来的祸害，再于2016 年选出与传统美国价值大相径庭的特朗普为总统，加上英国脱欧，历史终结论可谓弱不禁风，连福山本人都说，「二十五年前，我没有任何概念或理论显示民主会倒退。现在我认为它显然是可能的。」（Twenty five years ago, I didn't have a sense or a theory about how democracies can go backward. And I think they clearly can.）
 
+### 2024.09.22
+周日请一个假 
+
+### 2024.09.23
+
 <!-- Content_END -->
