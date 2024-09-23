@@ -258,9 +258,10 @@ Scope: Network States Chapter 5 & Vitalik's What do I think about network states
 	- Arturo Escobar’s framework of “designs for the pluriverse,” which insists that no single design can serve all people and cultures and that we should regard design as an exercise in historical consciousness and multiplicity.
 	- the cybernetic school, which views human, ecological, and technical systems through the structures of their information flows and feedback loops. 
 - 📌 To change how we design means also changing aspects of the social order.
-	- star-designer：有很强的主观意识和设计理念，决定 design deliverable 的风格，如 MUJI 和原研哉
-	- 商品社会里没有设计的设计，如 miniso、zara
-	- 社区营造里作为 facilitator，提供设计工具的设计师，将设计的过程和权力带给社区成员
+	- 想到几类设计师
+		- star-designer：有很强的主观意识和设计理念，决定 design deliverable 的风格，如 MUJI 和原研哉
+		- 商品社会里没有设计的设计，如 miniso、zara
+		- 社区营造里作为 facilitator，提供设计工具的设计师，将设计的过程和权力带给社区成员
 ##### ✍️ Thoughts
 - 作者提出的 paradigm （A further paradigm is therefore necessary for the policies encoded in law and technical systems that organize online life—self-governance, rather than top-down authority, as the basis for problem-solving）可以超越 jurisdictions of geographical territories，那么这个 paradigm 在法律层面是被什么主体认可呢？不是某个国家，而是类似联合国/EU？否则如何超越疆域？
 
