@@ -308,7 +308,7 @@ The methodology advocates for a paradigm shift in security protocol design, focu
 
 ### 2024.09.23
 
-#### Part2(0)
+### Part2(0)
 
 ##### 总体概述
 - **科技与地缘政治的焦虑**：当今科技发展与地缘政治之间的紧张关系引发了广泛关注，但根本性的冲突在于科技与民主之间日益增大的鸿沟。
