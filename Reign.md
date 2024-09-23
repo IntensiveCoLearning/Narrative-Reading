@@ -297,4 +297,12 @@ The article by Vitalik Buterin explores the concept of "network states," which a
 #### Conclusion
 The methodology advocates for a paradigm shift in security protocol design, focusing on minimizing TTP costs and risks to develop more effective and efficient security solutions.
 
+### 2024.09.23
+
+#### Part1
+在序章中，强调了数字化带来的希望与挑战。互联网作为连接世界的桥梁，促进了知识的传播与跨文化交流，但同时也加剧了社会不平等与政治专制。尽管全球面临民主退潮的困境，书中提倡通过集体智慧与合作，推动数字民主的实践。
+
+特别指出，台湾在数字人权和民主创新方面的努力，体现了多元共创的精神。书中提到台湾与60多个国家签署《未来网际网络宣言》，以及欧盟的数字民主倡议，标志着跨国合作的开始。
+
+最终，序章呼吁读者共同参与，推动多元宇宙的理想，结合技术与民主，抵制专制，实现未来的无限可能。
 <!-- Content_END -->

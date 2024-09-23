@@ -234,4 +234,35 @@ Scope: Network States Chapter 5 & Vitalik's What do I think about network states
 ###### Thoughts
 - 在思考之前创业 fail to deliver 的原因和所谓工作道德、社会道德、自发社会性的关系。
 
+### 2024.09.23
+#### Introduction: Democracy in the Wild
+- Disagreements fly by, but nobody is sure what would be the criteria for a decision or how to signal commitment. 
+- I contend that the most quotidian kinds of online politics, such as those in the tale above, affect the flows of power at the largest scales. The ways people can and cannot collectively self-govern in daily online life, furthermore, have been constrained in dominant social networks. I will argue that the constraints on governance in online spaces have contributed to the peril of democratic politics in general. It is not enough to merely defend existing governmental institutions; healthy democracy depends on enabling creative new forms of self-governance, especially on networks.
+	- 作者认为 online self-governance 的能力与主流民主政治和治理能力息息相关，相互制约和影响。健康的民主环境应当能够促使有创造力的 self-governance 的发生
+- 作者认为 online life 需要新的 self-governance paradigm & jurisdictions，该范式应当 encoded in law and technical systems，并且 可以超越 jurisdictions of geographical territories
+	- 在线上社区培养民主实践，并发展 community governance 的范式，在 antidemocratic infrastructure 只能处在边缘化位置，难以得到承认和发展。因此作者提出了这一与当前政治政策结合的 paradigm
+- 📌 I claim **no fixed definition for democracy**. I understand it as always a horizon, a longing for power shared equitably among participants, a destination that moves depending on where one stands. An orchestra permits hierarchies intolerable to a punk band, but the people in each may still see themselves as living toward democracy. If democracy is the horizon, **self-governance** is a plausible practice for moving in that direction. **Governable spaces**, then, are where democratic self-governance can happen.
+	- 有趣。民主不是固定的概念或形式，而是根据“民”所处的情况，有更 contextual 的需要和演化可能。
+- Global tendency towards democratic erosion
+	-  Scholars and journalistshave argued that social networks have worsened polarization, provided mouthpieces for authoritarians, enabled violent extremists to organize, and undermined trust in institutions.
+		- 社交媒体的普及并不会天然地促进民主，反而有可能加强极化 - 民主/自治是一种能力，也许并不是随人性自然发生的事情，需要包容认可倾听，而这些是非自私的行为，或者说素质
+- Example of the author's mother's garden club - use club bylaws to facilitate argument & decision-making
+	- 民主需要规则/规定来辅助 - 民主不是完全没有规则的畅所欲言——可以畅所欲言，但决策或有效的争论需要规则和指导。也许重要的是这个规则的制订，它不是从其他地方照搬或者小范围制订，而是团体内成员都信服并认可的。想到之前共居还有几页的共居约定，每当有室友轮换时，就会拿出来重新讨论。
+	- Democratic muscles need exercise
+- Determinsism - 技术本身是否足以解决问题
+	- Hepp shows how **algorithms and data aggregation** do not just communicate but reshape society. Of similar importance, I argue, are the **interfaces** and **administrative features** of online social spaces, the sites that manifest who has power over whom.
+	- technical solutions alone are inadequate—and impossible—even for problems that people experience most directly through technical interfaces. Those interfaces come to us not by their own accord but through the deployments of capital and power that orchestrate their design
+	- The real usefulness in seeing the world as mediation is the extent to which it becomes an invitation for recasting molds of meaning in software code, for performing social experiences that code could never capture.
+	- 技术对于 online experiences 的意义不止于技术，它在设计时已经耦合了资本和政治意义。 --从设计的角度来说，确实。即使是实现同样的功能，不同的设计能够给人带来全然不同的感受，可能是 empowering 的，也可能是 depressing 的。这些感受不一定是因为“缺乏考虑”，也可能是 deliberately made it
+- democracy as a design practice
+	- Arturo Escobar’s framework of “designs for the pluriverse,” which insists that no single design can serve all people and cultures and that we should regard design as an exercise in historical consciousness and multiplicity.
+	- the cybernetic school, which views human, ecological, and technical systems through the structures of their information flows and feedback loops. 
+- 📌 To change how we design means also changing aspects of the social order.
+	- 想到几类设计师
+		- star-designer：有很强的主观意识和设计理念，决定 design deliverable 的风格，如 MUJI 和原研哉
+		- 商品社会里没有设计的设计，如 miniso、zara
+		- 社区营造里作为 facilitator，提供设计工具的设计师，将设计的过程和权力带给社区成员
+##### ✍️ Thoughts
+- 作者提出的 paradigm （A further paradigm is therefore necessary for the policies encoded in law and technical systems that organize online life—self-governance, rather than top-down authority, as the basis for problem-solving）可以超越 jurisdictions of geographical territories，那么这个 paradigm 在法律层面是被什么主体认可呢？不是某个国家，而是类似联合国/EU？否则如何超越疆域？
+
 <!-- Content_END -->
