@@ -192,4 +192,8 @@ DAO 提供了一種 “我們不要信任，我們驗證” ，開拓了一種�
 
 單單是序章中的人物就已讓人期待，整本書可以帶來甚麼的方向和想像。
 
+https://equable-mountain-09d.notion.site/Web3-47a6ad2b0db849f6a9714fbb0604edd5?pvs=4
+
+關於第二周的共學筆記
+
 <!-- Content_END -->
