@@ -265,4 +265,44 @@ Scope: Network States Chapter 5 & Vitalik's What do I think about network states
 ##### ✍️ Thoughts
 - 作者提出的 paradigm （A further paradigm is therefore necessary for the policies encoded in law and technical systems that organize online life—self-governance, rather than top-down authority, as the basis for problem-solving）可以超越 jurisdictions of geographical territories，那么这个 paradigm 在法律层面是被什么主体认可呢？不是某个国家，而是类似联合国/EU？否则如何超越疆域？
 
+### 2024.09.24
+#### 1. Implicit Feudalism: The Origins of Counter-democratic Design
+- discuss how online platforms train users to interact with each other through certain widespread interface designs
+	- **author's statement**: an *implicit feudalism* （盲从封建）informs the available options for community management on the dominant platforms for online communities
+		- It is a pattern that grants user-administrators absolutist reign over their fiefdoms, with competition among them as the primary mechanism for quality control, typically under rules set by platform companies.
+		- *feudalism* in this context: metaphorically to describe concurrent communities across a network, each subject to a power structure that is apparently absolute and unalterable by those who lack specific permissions
+		- *implicit* in this context: while platforms may not explicitly proclaim or seek to practice some old-world feudal ideology—to the contrary, many claim participatory and inclusive ideals—a feudalism lurks latent in the available tools that guide and limit user behavior.
+		- primarily a matter of *software design*
+- An expectation typically associated with democracy, for instance, is that those subject to an authority have the capacity to transfer the authority to someone else.
+	- democracy 即群体有能力将权威/权力转让，但在与社交媒体平台之间的关系中并不支持这一点——无法因为对 fb 的功能不满而将其管理权转变
+- social-media affordance:  “the perceived actual or imagined properties of social media, emerging through the relation of technological, social, and contextual, that enable and constrain specific uses of the platforms.”
+- lack of the ability to 'voice'
+	- voice for social discourses - need to wait for admins to 'approve'
+	- voice for voting out an admin of the platform
+- case study
+	- Progenitors: BBS, Usenet, and Email Lists
+	- Contributors: **Commons-Based Software** and Wikipedia
+		- separation of powers or Integrating multiple governance mechanisms
+			- Debian and Wikipedia combine electoral processes with meritocratic barriers in order to ensure that leaders are not just popular but exhibit a high level of expertise
+			- Usenet combines some aspects of shared governance in its board with considerable autonomy among the newsgroups
+	- The Rise of Platforms
+- characteristics of implicit feudalism
+	- control over communities residing in an individual or a small group
+	- authority deriving from founders and their appointed successors
+	- opacity of policymaking and decision-making processes
+	- suppression of user voice as a basic privilege of authority
+	- user exit as the most forceful means of dissent, and
+	- sole recourse to platform owners in disputes.
+- As anthropologist Christopher Kelty puts it, in twenty-first century digital cultures, “participation is more often a **formatted procedure** by which autonomous individuals attempt to reach calculated consensus, or one in which they experience an **attenuated, temporary feeling of personal contribution** that ends almost as soon as it begins.”
+	- 好讽刺的对于 participation 的讨论
+- cancel culture
+##### ✍️ Thoughts
+- 作者提出的 implicit feudalism 的概念，认为这是由于 social media software design 所导致的结果。
+	- Implicit - 尽管社交媒体平台希望能够更加 participatory & inclusive，但其软件设计难以避免引导和限制用户行为，导致 feudalism 的结果。
+	- Feudalism - 指的是社交媒体上的社区屈从于平台通过算法和 permission 设置的权力结构，即平台允许何种行为/功能/交互发生，就只能如此
+- 对社交媒体平台功能的讨论中提到，early democracy 的情况下，用户应能够 repurpose features，但 implicit feudalism 中无法，因为 inclusive governance requires clever adaptations of available feature sets, against the grain of the user interface。想到设计中强调以人为本，强调挖掘用户痛点、满足用户需求，这看似服务于用户，但实际上还是一种 top-down approach，最终服务于社媒平台产品的利益。
+	- 这里的 middle ground 在哪里？
+- 作者讨论的不是如何使用工具创建更好的线上民主空间，而是现有工具为无法创建线上民主空间带来的结构性困境和限制
+
+
 <!-- Content_END -->
