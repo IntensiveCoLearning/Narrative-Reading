@@ -308,8 +308,6 @@ The methodology advocates for a paradigm shift in security protocol design, focu
 
 ### 2024.09.24
 
-
-
 ##### 总体概述
 - **科技与地缘政治的焦虑**：当今科技发展与地缘政治之间的紧张关系引发了广泛关注，但根本性的冲突在于科技与民主之间日益增大的鸿沟。
 - **科技对民主的威胁**：信息技术的进步正在侵蚀民主的核心价值，导致两者之间的对立与冲突。
@@ -345,8 +343,41 @@ The methodology advocates for a paradigm shift in security protocol design, focu
 ##### 结论
 - **需要的变革**：面对新兴技术的挑战，民主国家需改革现有法律框架，以适应技术带来的新现实，实现科技与民主的协调发展。
 
+### 2024.09.25
 
+#### ARTIFACTS AND POLITICS
 
+1. **Technological Determinism and Its Impact**: The argument highlights the risk of technological determinism, which oversimplifies the role of technologies in shaping societies. Technologies like social media constrain social and political possibilities, favoring autocratic over democratic power structures.
+  
+2. **Need for Better Tools**: Existing tools and business models reinforce non-democratic practices, making self-governance difficult. To improve online governance, better, more democratic tools must be designed.
+  
+3. **Role of People in Re-shaping Technologies**: While technologies constrain politics, people have the potential to reshape these technologies through intentional self-governance, creating tools aligned with democratic principles.
+
+4. **Mediatization of Society**: Media technologies permeate every aspect of life, shaping power dynamics and governance. Interfaces and user experiences in online spaces contribute to power distribution, and redesigning these elements can facilitate more democratic interactions.
+
+#### DEMOCRACY AS A DESIGN PRACTICE
+
+5. **Challenges of Collective Governance**: Implementing democratic practices in digital spaces is challenging due to the entrenched nature of current technologies, business models, and political routines.
+
+6. **Blockchain and Web3**: Emerging technologies like blockchain present opportunities for new governance models. While much of the crypto world is undemocratic, these technologies offer potential for more distributed and democratic forms of network governance.
+
+7. **Design as a Political Act**: Designing governable online spaces requires an intentional effort to move away from traditional power structures. Design can promote autonomy and accountability, ensuring that tools serve the people who use them.
+
+8. **Influence of Governance Experiments**: Global experiments in participatory governance, such as digital platforms and AI-based deliberation systems, offer lessons, though they remain largely advisory and non-binding.
+
+#### GOVERNANCE AND SOCIAL ORDER
+
+9. **Influence of Media on Governance**: As media technologies have a profound impact on how people experience power and governance, redesigning these spaces is crucial for fostering a healthier democratic culture.
+
+10. **Designing for Conviviality**: Tools should support human creativity and autonomy, reversing current structures that centralize control. This requires rethinking how digital systems are built and maintained.
+
+#### LIMITATIONS AND FUTURE DIRECTIONS
+
+11. **Democratic Design as an Ongoing Process**: Designing democratic systems online is an evolving process. Current technologies do not yet adequately support self-governance, but future developments could enable more meaningful participation.
+
+12. **Tailored Governance Approaches**: Self-governance should be context-specific, with varying levels of participation depending on the needs of the platform and users. This requires sensitivity to the economies of attention and the ability to manage multiple governance environments effectively.
+
+13. **Unresolved Challenges**: Although optimistic about participatory politics, the author acknowledges that large-scale participation may be burdensome or lead to uninformed decision-making. The ultimate goal is to motivate the construction of governance systems that balance participation with practical governance needs.
 
 
 <!-- Content_END -->
