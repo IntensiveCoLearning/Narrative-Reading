@@ -127,11 +127,15 @@ TTP最小化这个概念听起来似乎很动人，但现在依然需要那些TT
 
 我工作流中的一部分已经嵌入了生成式AI。奥特曼也说，合理利用生成式AI，每个人都更能够拓展自己的力量，更有可能打造一人公司。
 
-### 2024.09.23
+### 2024.09.24
 
 > An orchestra permits hierarchies intolerable to a punk band, but the people in each may still see themselves as living toward democracy. If democracy is the horizon, self-governance is a plausible practice for moving in that direction. Governable spaces, then, are where democratic self-governance can happen. --[Governable Spaces](https://luminosoa.org/site/books/10.1525/luminos.181/read/?loc=007.xhtml), Nathan Schneider
 
 管弦乐队和朋克乐队的人们都认为自己的生活是民主的。没有必要强迫谁满足谁。
+
+### 2024.09.25
+
+我想构建一个编程入门的DAO
 
 
 
