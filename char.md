@@ -304,5 +304,28 @@ Scope: Network States Chapter 5 & Vitalik's What do I think about network states
 	- 这里的 middle ground 在哪里？
 - 作者讨论的不是如何使用工具创建更好的线上民主空间，而是现有工具为无法创建线上民主空间带来的结构性困境和限制
 
+### 2024.09.25
+#### 2. Homesteading on a Superhighway - How the Politics of No-Politics Aided an Authoritarian Revival
+- **aim of this chapter**: revisit the politics of no-politics that Barbrook and Cameron diagnosed—the culture that, according to Fred Turner, “turned away from political action and toward technology.
+	- Richard Barbrook & Andy Cameron '*the Californian ideology*': a faith that greater volumes of information and connection, fueled by capitalism, would produce a flourishing democracy. Technology could end the old partisanship of right and left through entrepreneurs “believing in both visions at the same time.”
+	- Barbrook and Cameron predicted the *endgame* as, rather than marvelous connection, “*a deepening of social segregation*.”
+- **author's argument**: the Californian ideology inscribed the habits of homesteading—a legacy so familiar, nostalgic, and violent in the American West—into the practice of online communities
+	- Everyday experience with Californian technologies hollows out the rudiments of democratic culture, especially the skills and habits of **accountable association**
+	- These systems have aided in generating new breeds of world-historical authoritarianism
+- homestead vs homeplace
+	- homestead 是 political object
+		- “Western American history,” writes Limerick, “was an effort to draw lines dividing the West into manageable units of property and then to persuade people to treat those lines with respect.”
+	- homeplace 是自发的，是 site of resistance - Those who could not leave an oppressive society could find liberation together, transforming space and time, however constrained the homeplace might be by the world outside. The homeplace forms a counter-tradition to the homestead, a place of care and resistance, where power can be shared in contrast to the domination of the broader society in which it occurs and from which it can never fully depart.
+- As the libertarian political philosopher Robert Nozick wrote, the only utopia is the ability to exit one utopia for another
+	- 好奇这里强调的是离开的能力，还是处于乌托邦但不被迷惑持续反思和探索的状态
+- **Exit** has assumed an exalted place in Californian thinking
+	- exit-able 象征着 democracy
+- Alongside the option to exit in the Californian imagination is the dream of **scale**. - scale as an economic necessity
+- Agre from MIT: calling for technology that invites people into developing skills through **everyday politics**
+	- cultivating political skills should **precede** the making of technology to support those skills
+	- california: 先有技术再宣扬民主
+	- agre：先有民主政治能力z再寻找合适的技术
+- Producing more democratic and humane politics at large scales requires attention to the daily political practices on networks, as well as to what software designs might encourage or discourage
+
 
 <!-- Content_END -->
