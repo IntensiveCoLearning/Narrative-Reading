@@ -327,5 +327,27 @@ Scope: Network States Chapter 5 & Vitalik's What do I think about network states
 	- agre：先有民主政治能力z再寻找合适的技术
 - Producing more democratic and humane politics at large scales requires attention to the daily political practices on networks, as well as to what software designs might encourage or discourage
 
+### 2024.09.26
+#### 3. Democratic Mediums - Case Studies in Political Imagination
+- As people understand themselves more through their identities as **users of social media**, they find little reason for faith in their capacity to self-govern with each other
+	- 一旦人们以“用户心理”使用社交平台，就不会想要去 self-govern  -  治理权和所有权，以及更基础的，治理心态和所有者心态的重要性
+- In this chapter:
+	- Propose **remedies** for the status quo: 
+		- rethinking the design and practice of online social spaces by treating democracy as itself a medium for struggle, play, and policy
+		- bring democracy more deeply into everyday online life, establishing appropriate kinds of jurisdictions as sites of creative self-governance.
+- Democracy is hard to be sustained within centuries-old institutions. For democracy to thrive, its institutions must be vulnerable to continual **reinvention**. The task of making online spaces governable, therefore, should begin with imaginations radical enough to transcend existing institutions, together with the playfulness to hone imagination in practice.
+	- 治理方法和治理机构需要随着时代演进，以承载 democracy
+##### Case study 01 - transformative justice
+- what - a movement to abolish policing as we know it through participatory processes; community-based organizing to address violence and conflict without policing
+- how - Instead of referring incidents of harm in a community to the arbiters of state violence, transformative justice equips community members to build their own skills for facilitating *conflict resolution and accountability*
+- goal - The goal is not to punish and coerce, like police and courts do, but to repair harm and enable people involved in it to establish healthier relationships
+- challenges for visibility
+	- far from the language of policy prescription
+	- activists have taken care to keep their accountability practices out of corporate-controlled online spaces
+- Learnings
+	1. If online spaces want to work for community accountability, the design of it needs a shift *from scalability to subsidiarity*
+		1. scalability: genericity & automation, ideal for business model
+		2. subsidiarity: a principle that prioritizes appropriately local control wherever possible, within a larger system - to ensure context-sensitivity and local control
+			1. 庞大系统的 local solutions。想到建筑城市设计也是这样
 
 <!-- Content_END -->
