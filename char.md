@@ -350,4 +350,50 @@ Scope: Network States Chapter 5 & Vitalik's What do I think about network states
 		2. subsidiarity: a principle that prioritizes appropriately local control wherever possible, within a larger system - to ensure context-sensitivity and local control
 			1. 庞大系统的 local solutions。想到建筑城市设计也是这样
 
+ ### 2024.09.27
+##### Case study 02 - cryptoeconomics
+- Why
+	- Scott Alexander: “Every single citizen hates the system, but for lack of a good coordination mechanism it endures”; in turn, “technology has the potential to seriously improve coordination efforts.”
+	- But in certain subcultures of entrepreneurs, the longer story of what they are doing is **transforming the social order through new mechanisms for coordination.**
+	- MolochDAO: “This demon god of coordination failure, who consumes our future potential for perverse immediate gain, will be slain. Pledge your oath to his demise, or go down with him
+		- 系统作为协调机制。这里的协调包括了时间维度，提前支配未来的资源而导致不可持续的发展
+- what
+	- a project of reimagining economics and governance through internetnative blockchain protocols
+- How
+	- Technologies as *democratic mediums*
+		- mediums as enabling self-governing communication;
+		- and as serving as meeting points for the transcendent and the everyday.
+	- Vitalik Buterin: cryptoeconomics as a nearly universal engine for social and technical processes - “to reduce social trust assumptions by creating systems where we introduce explicit economic incentives for good behavior and economic penalties for bad behavior.”
+- Author's critique
+	- It is no longer an antidote to implicit feudalism as most social media platforms are, since the system lacks single owner and is user-governed by default.
+	- However, it is only an opportunity. The tech design cannot guarantee its social outcomes with realities like concentration of tokens and power.
+	- crypton's governance innovations
+		- decision-making processes that evaluate preferences in nearly real time - 这点很有趣，强调了决策偏好的时间性，指的是当下最倾向于的选择
+		- voting systems unavailable in conventional politics or business
+		- mechanisms for incentive alignment among diverse participants
+		- algorithmic dispute resolution
+		- permissionless participation
+		- widely shared accountability and distribution of benefits
+		- self-enforcing security and censorship resistance
+		- sovereignty from external control or regulation
+		- transparency of on-chain activity
+		- competitive markets for governance
+		- ease of exit and capacity to fork systems
+		- identity systems under user control
+		- novel interfaces for governance activity
+- Concern
+	- cryptoeconomics is an expansion of economic logics, crowding out space for democratic politics in public life
+	- According to Wendy Brown, “as an economic framing and economic ends replace political ones, a range of concerns become subsumed to the project of capital enhancement, recede altogether, or are radically transformed as they are ‘economized.’ These include justice (and its subelements, such as liberty, equality, fairness), individual and popular sovereignty, and the rule of law. They also include the knowledge and the cultural orientation relevant to even the most modest practices of democratic citizenship.
+		- 代币经济是基于经济原则，而非公共生活中的民主政治原则。涌现出来的创新的治理机制，其本质也是服务于经济
+- Limitations
+	- Plutocrady (金权政治) - is a direct outgrowth of governance that arises not from personhood but from economic stake—whether it be through token holding or “mining” with expensive computational power
+	-  normative as well as descriptive.  Reliance on cryptoeconomic governance risks losing sight of other things important to human flourishing.
+	- The final limitation appears in crypto’s externalities, its effects that are invisible to its own internal processes. 
+		- energy onsumption, money laundering, dealings in dangerous drugs and weaponry, tax evasion, and ransomware attacks on public infrastructure
+- Potential
+	- pairing cryptoeconomics with intentional politics
+		- state regulation
+		-  incorporate democratic design into blockchain protocols themselves, or the apps and DAOs built on them
+		- establish a robust set of rights, responsibilities, and guarantees
+
 <!-- Content_END -->
