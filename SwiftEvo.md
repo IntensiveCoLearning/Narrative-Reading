@@ -212,6 +212,8 @@ https://equable-mountain-09d.notion.site/Web3-47a6ad2b0db849f6a9714fbb0604edd5?p
 
 最後大國的投資於科技的資金，開始下降；極權國家對科技的資金投入度卻大覆增加。
 
+### 2024.09.27
 
+今天聽了豆泥的解說，對台灣的變化又再有了更多的理解。
 
 <!-- Content_END -->
