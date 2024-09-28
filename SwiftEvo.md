@@ -216,4 +216,9 @@ https://equable-mountain-09d.notion.site/Web3-47a6ad2b0db849f6a9714fbb0604edd5?p
 
 今天聽了豆泥的解說，對台灣的變化又再有了更多的理解。
 
+### 2024.09.28
+
+先打個卡
+
+
 <!-- Content_END -->
