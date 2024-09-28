@@ -173,7 +173,19 @@ timezone: Asia/Shanghai
       - 代议民主下的非自由民主制则用以形容那些“有民主”、却没有保障自由的制度。
   - 《公民权利及政治权利国际公约》为国际法中之**民主原则**奠定法律基础，特别是：言论自由（第19条）；和平集会的权利（第21条）；结社自由（第22条）；直接或通过自由选择的代表参与公共事务（第25条）：在真正、定期的选举中进行选举和被选举，这种选举应是普遍和平等的，并以无记名投票方式进行，以保证选举人的意志的自由表达（第25条）。
 
+### 2024.09.28
 
+- 学习主题:  TG 群豆泥分享 [PPT 内容](https://docs.google.com/presentation/d/119iz8zITG25b1A_5eor_AbyaIyqJOB85W8zV3qEntQs/pub?start=false&loop=false&delayms=3000)阅读
+  - 一些观点角度赞 :
+    - 多元宇宙好像有些把台湾写的很美好，其实真正关注这些精神的人还是很小众，但台湾的优势在这些小众的星星之火可以有机会燎原。难以理解是一个很大的门槛。
+    - 有的 DAO 比如 [g0v](https://g0v.tw/) 其实是不投票的“网络行动主义/草根行动主义”，拿脚投票，直接做事情，以事情的活跃度对比来模拟投票结果。👍
+    - 有没有什么反常识但是很值得回味的发现。这个问题是个很好的问题。
+  - 一些阅读材料 Todo：
+    - [探討世界各地的 DAO 如何運作](https://open.spotify.com/episode/3aS16f7nvqEacmCrmlWDdX?si=IbKLFTKBSm-FxUpuvbvVIw&nd=1&dlsi=709a92dbf6d24a1d)
+    - [從被迫喊卡的數位身分證政策，看台灣與「數位國家」的距離](https://www.twreporter.org/a/e-id-in-taiwan-2021-failed)
+    - [概念驗證：隱私優先的台灣居民數位身分](https://yurenju.blog/posts/2024-02-04_taiwan-digital-id-privacy-first/)
+    - [Semaphore：強化隱私的身分解決方案](https://yurenju.blog/posts/2024-02-02_semaphore/)
+    - [W3C DIDs：拆解權力結構的數位身分標準](https://yurenju.blog/posts/2024-01-01_w3c-dids-redefining-identity-authority/)
 
 <!-- Content_END -->
 
