@@ -187,5 +187,14 @@ timezone: Asia/Shanghai
     - [Semaphore：強化隱私的身分解決方案](https://yurenju.blog/posts/2024-02-02_semaphore/)
     - [W3C DIDs：拆解權力結構的數位身分標準](https://yurenju.blog/posts/2024-01-01_w3c-dids-redefining-identity-authority/)
 
+### 2024.09.29
+
+- 学习主题:  [数位时代的意识形态光谱](https://matters.town/a/yq81ykvpnm8g)
+  - 一个很好的问题开篇：这张图的核心命题是，在两大数位帝国强权的边陲，若要发展共同体，有不得不发展的核心价值吗？
+  - 这个点很👍：台湾的自我主权（Taiwan as a Sovereign State），刚好与台湾人自我主权（Taiwanese Self-Sovereignty）高度重叠。保护公民主权，就是保障国家主权。或许我们可以吸收密码庞克、数位民主与网路国家的新思维，在去中心的边陲迈向丰裕（弃成长）的社会愿景。绝对不是强迫每个人都要学会开加密货币钱包这么简单，而是透过数位工具唤起自主保卫意识，并试着在利益优先之外，掺入团结互助的精神。
+  - 在伊藤穰一的论文《变革实践》中提到一个关于网络发展的中心化、去中心化和再中心化的循环过程。新的思考：中心化和去中心化并不是简单的对立，是一个辩证的过程。
+
+
+
 <!-- Content_END -->
 
