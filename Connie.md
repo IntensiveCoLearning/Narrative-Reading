@@ -234,5 +234,30 @@ https://www.notion.so/lxdao/b222ba85eeef46aa9cae26d3f9032966
 
 听了豆泥的分享，炸出来好多干货，真的要听听很多有意思的嘉宾分享，可以丰富见解。
 
+### 2024.09.28
+资料整理：
+mashbean:
+https://moda.gov.tw/digital-affairs/democracy-network/operations/6623
+
+https://gov.tw/oqq
+
+https://yurenju.blog/posts/2024-01-01_w3c-dids-redefining-identity-authority/
+
+https://yurenju.blog/posts/2024-02-02_semaphore/
+
+https://yurenju.blog/posts/2024-02-04_taiwan-digital-id-privacy-first/
+
+https://www.twreporter.org/a/e-id-in-taiwan-2021-failed
+
+Loxia:
+https://docs.google.com/document/d/1tEiSo3GbYEEyM4MvN5oyJEkcNzXKQkLKYCiR_wNhBrg/edit
+
+mashbean:
+找到了之前的清單XD
+https://matters.town/a/6cxkvinm92v0
+
+因為昨天的討論，想說做的圖片一時半刻難以說明清楚，所以寫了篇文章來解釋，放在matters 
+
+https://matters.town/a/yq81ykvpnm8g
 
 <!-- Content_END -->
