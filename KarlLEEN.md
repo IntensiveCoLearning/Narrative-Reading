@@ -293,4 +293,8 @@ Governable Spaces：Democratic Design for Online Life
 ### 2024.09.30
 Governable Spaces：Democratic Design for Online Life
 讨论了民主衰退的问题，指出民主制度在全球范围内的侵蚀，以及社交媒体可能对此负有责任。然而，作者也强调了在线网络的潜力，认为它们可以成为新的治理空间，如果设计得当，可以促进民主实践。
+
+Connie 留言：
+
+感谢你每次都认真记笔记，参与叙事残酷共学～真的太棒啦～期待继续一起交流～
 <!-- Content_END -->
