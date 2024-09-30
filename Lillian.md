@@ -279,5 +279,7 @@ W3C DIDs：拆解權力結構的數位身分標準
 
 DID 的結構：
 DID字串：DID識別方式：DID ID
+DID: key / Web / Ethr
+DID目前問題：沒有一個成熟的錢包存放資料，企業沒有動力使用，可以先從政府發行的的政見開始
 
 <!-- Content_END -->
