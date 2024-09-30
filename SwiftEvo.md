@@ -236,4 +236,10 @@ https://equable-mountain-09d.notion.site/Web3-47a6ad2b0db849f6a9714fbb0604edd5?p
 
 期待書中有更多關於如何在數碼技術的前進下，帶來突破性的多元連結。
 
+Connie 留言：
+
+Connie 留言：
+
+感谢你每次都认真记笔记，参与叙事残酷共学，一起讨论～真的太棒啦～期待继续一起交流～
+
 <!-- Content_END -->
