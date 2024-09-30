@@ -396,4 +396,7 @@ Scope: Network States Chapter 5 & Vitalik's What do I think about network states
 		-  incorporate democratic design into blockchain protocols themselves, or the apps and DAOs built on them
 		- establish a robust set of rights, responsibilities, and guarantees
 
+Connie 留言：
+
+哈哈哈闪现！看你会不会发现～～～感谢你参与叙事残酷共学～～～
 <!-- Content_END -->
