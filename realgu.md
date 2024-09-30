@@ -219,4 +219,20 @@ vitalik很赞赏台湾的民主，他还和台湾议员有过一次访谈，全�
 ### 2024.09.27
 参加读书会，听了来自台湾的豆泥老师分享，nice
 
+### 2024.09.29
+今天看vitalik的文章 Plurality philosophy in an incredibly oversized nutshell，边看边记  
+1. 开篇提到了左派在禁止人造肉议题上的分歧，一些左派认为禁令是对自由的限制，另一些左派认为吃这玩意是不是有毛病啊都别吃。v自然是支持前者，但也为后者找了一个合理理由：in short, once something like this is allowed, it becomes mainstream, society reorganizes around it, and the lives of those who do not want to follow along inevitably become harder and harder. It happened with digital cash, to the point where even the Swedish central bank is worried about cash payments accessibility, so why wouldn't it happen in other sectors of technology as well?
+2. treat not just individuals, but also connections between individuals, as a first-class object that any new social design needs to take into account and build around, rather than treating it as a bug that needs to be squashed. 有意思  
+3. 21世纪的三大意识形态：Technocracy, Libertarianism and Plurality.  
+4. balaji和唐凤的区别：Balaji would ask: how do we let the synthetic meat people have their synthetic meat city, and the traditional meat people have their traditional city? Glen and Audrey might rather ask: how do we structure the top levels of society to guarantee people's freedom to do either one, while still retaining the benefits of being part of the same society and cooperating on every other axis?
+
+这篇也太长了，半天才看了1/4的样子，明天接着看吧  
+
+
+### 2024.09.30
+1. vitalik说多元那本书3-1有一段是他写的，三体问题的那段。惊了，还以为是哪个老中举的例子，结果是v  
+2. idea of granular freedom of exit，举了一个台湾反诈软件的例子，软件有许多细分的滤镜，用户可以自己决定需要反诈的程度  
+3. Plurality is not inherently against the existence of nation states, but it makes an explicit effort to expand beyond relying on nation states as its locus of action. It has prescriptions for how all kinds of actors can act, including transnational organizations, social media platforms, other types of businesses, artists and more. It also explicitly acknowledges that for many people, there is no overarching single nation-state that dominates their lives.这几句都挺符合crypto的价值观  
+4. plurality的一大理念：membership in an organization should not be treated as a "true-or-false" question. Instead, there should be different degrees of membership, and these different degrees would carry different benefits and different levels of obligation.  
+累了，看了一半，明天再看吧
 <!-- Content_END -->

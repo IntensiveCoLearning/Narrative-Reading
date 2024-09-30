@@ -286,4 +286,11 @@ Excerpt From
 多元宇宙
 衛谷倫、唐鳳、⿻社群
 This material may be protected by copyright.
+### 2024.09.29
+Governable Spaces：Democratic Design for Online Life
+尽管在线社交网络的设计限制了人们的集体自我管理能力，但这些限制也对民主政治的衰退负有责任。
+
+### 2024.09.30
+Governable Spaces：Democratic Design for Online Life
+讨论了民主衰退的问题，指出民主制度在全球范围内的侵蚀，以及社交媒体可能对此负有责任。然而，作者也强调了在线网络的潜力，认为它们可以成为新的治理空间，如果设计得当，可以促进民主实践。
 <!-- Content_END -->
