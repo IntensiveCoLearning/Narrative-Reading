@@ -469,4 +469,8 @@ The methodology advocates for a paradigm shift in security protocol design, focu
 4. **可扩展性和可持续性**：文章讨论了Idena的设计如何在可扩展性与长期可持续性之间取得平衡，确保平台能够适应未来的变化。
 
 总体而言，Idena被视为实现数字民主的一种创新方法，展示了如何在去中心化的环境中促进公民参与与治理。
+
+Connie 留言：
+
+感谢你每次都认真记笔记，参与叙事残酷共学～真的太棒啦～期待继续一起交流～如果有微信可以加：riceandleaf
 <!-- Content_END -->
