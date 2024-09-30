@@ -235,4 +235,8 @@ vitalik很赞赏台湾的民主，他还和台湾议员有过一次访谈，全�
 3. Plurality is not inherently against the existence of nation states, but it makes an explicit effort to expand beyond relying on nation states as its locus of action. It has prescriptions for how all kinds of actors can act, including transnational organizations, social media platforms, other types of businesses, artists and more. It also explicitly acknowledges that for many people, there is no overarching single nation-state that dominates their lives.这几句都挺符合crypto的价值观  
 4. plurality的一大理念：membership in an organization should not be treated as a "true-or-false" question. Instead, there should be different degrees of membership, and these different degrees would carry different benefits and different levels of obligation.  
 累了，看了一半，明天再看吧
+
+CONNIE 留言：
+
+感谢你每次都认真记笔记，参与叙事残酷共学～真的太棒啦～期待后续继续一起交流～
 <!-- Content_END -->
