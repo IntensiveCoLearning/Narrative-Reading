@@ -237,6 +237,7 @@ https://github.com/user-attachments/assets/84e194e9-e3c3-49be-87e8-4c62dd818926
 
 
 
+
 <!-- STATISTICALDATA_START -->
 
 
@@ -244,6 +245,7 @@ https://github.com/user-attachments/assets/84e194e9-e3c3-49be-87e8-4c62dd818926
 
 - 总参与人数: 34
 - 完成人数: 13
+- 完成用户: SwiftEvo, Connie, Oscar, Kevin, bububut, Lorin, realgu, Lillian, KarlLEEN, Lelouch, flytoufu, Reign, char
 - 全勤用户: Oscar, bububut, Lorin, Lelouch, flytoufu, Reign
 - 淘汰人数: 21
 - 淘汰率: 61.76%
