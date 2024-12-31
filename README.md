@@ -208,11 +208,12 @@ https://github.com/user-attachments/assets/84e194e9-e3c3-49be-87e8-4c62dd818926
 | JL-Lelouch | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
 | paaarissss | ✅ | ⭕️ | ⭕️ | ❌ | | | | | | | | | | | | | | | | | |
 | ChengruiGu | ✅ | ✅ | ✅ | ⭕️ | ✅ | ✅ | ✅ | ✅ | ⭕️ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⭕️ | ✅ | ✅ | ⭕️ |
-| charlottyge | ⭕️ | ⭕️ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⭕️ | ⭕️ | ✅ | ✅ | ✅ | ✅ | ✅ | ⭕️ | ⭕️ |   | ⭕️ |
+| charlottyge | ⭕️ | ⭕️ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⭕️ | ⭕️ | ✅ | ✅ | ✅ | ✅ | ✅ | ⭕️ | ⭕️ | ⭕️ | ⭕️ |
 | rich-loam | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⭕️ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
 | lulleeeeee | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
 | lilian79511 | ✅ | ✅ | ✅ | ⭕️ | ✅ | ✅ | ✅ | ✅ | ⭕️ | ✅ | ✅ | ✅ | ⭕️ | ⭕️ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
 <!-- END_COMMIT_TABLE -->
+
 
 
 
@@ -242,8 +243,8 @@ https://github.com/user-attachments/assets/84e194e9-e3c3-49be-87e8-4c62dd818926
 ## 统计数据
 
 - 总参与人数: 34
-- 完成人数: 12
-- 完成用户: SwiftEvo, taoranzhishang, bububut, ztm0929, luffythink, flytoufu2024, KarlLEEN, JL-Lelouch, ChengruiGu, rich-loam, lulleeeeee, lilian79511
+- 完成人数: 13
+- 完成用户: SwiftEvo, taoranzhishang, bububut, ztm0929, luffythink, flytoufu2024, KarlLEEN, JL-Lelouch, ChengruiGu, charlottyge, rich-loam, lulleeeeee, lilian79511
 - 全勤用户: taoranzhishang, bububut, luffythink, flytoufu2024, JL-Lelouch, lulleeeeee
 - 淘汰人数: 21
 - 淘汰率: 61.76%
