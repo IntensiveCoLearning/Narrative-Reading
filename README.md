@@ -180,39 +180,40 @@ https://github.com/user-attachments/assets/84e194e9-e3c3-49be-87e8-4c62dd818926
 | ------------- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
 | [JessieJiang2021](https://github.com/IntensiveCoLearning/Narrative-Reading/blob/main/JessieJiang2021.md) | ⭕️ | ⭕️ | ❌ | | | | | | | | | | | | | | | | | | |
 | [Warmicy](https://github.com/IntensiveCoLearning/Narrative-Reading/blob/main/Warmicy.md) | ⭕️ | ⭕️ | ❌ | | | | | | | | | | | | | | | | | | |
-| [punkcanyang](https://github.com/IntensiveCoLearning/Narrative-Reading/blob/main/punkcanyang.md) | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⭕️ | ✅ | ✅ | ✅ | ✅ | ⭕️ | ⭕️ | ⭕️ | ❌ | | | | | | |
+| [punkcanyang](https://github.com/IntensiveCoLearning/Narrative-Reading/blob/main/punkcanyang.md) | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⭕️ | ✅ | ✅ | ✅ | ✅ |   | ⭕️ | ⭕️ | ❌ | | | | | | |
 | [SwiftEvo](https://github.com/IntensiveCoLearning/Narrative-Reading/blob/main/SwiftEvo.md) | ✅ | ✅ | ✅ | ✅ | ✅ | ⭕️ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⭕️ |
 | [yulai-123](https://github.com/IntensiveCoLearning/Narrative-Reading/blob/main/yulai-123.md) | ✅ | ⭕️ | ⭕️ | ❌ | | | | | | | | | | | | | | | | | |
 | [MRzzz-cyber](https://github.com/IntensiveCoLearning/Narrative-Reading/blob/main/MRzzz-cyber.md) | ✅ | ⭕️ | ⭕️ | ❌ | | | | | | | | | | | | | | | | | |
 | [hBigFei](https://github.com/IntensiveCoLearning/Narrative-Reading/blob/main/hBigFei.md) | ✅ | ✅ | ⭕️ | ⭕️ | ❌ | | | | | | | | | | | | | | | | |
-| [wenQian-see](https://github.com/IntensiveCoLearning/Narrative-Reading/blob/main/wenQian-see.md) | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⭕️ | ✅ | ✅ | ⭕️ | ⭕️ | ❌ | | | | |
-| [Tristan3198](https://github.com/IntensiveCoLearning/Narrative-Reading/blob/main/Tristan3198.md) | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⭕️ | ✅ | ✅ |   | ✅ | ✅ | ⭕️ | ⭕️ | ❌ | | | | | |
+| [wenQian-see](https://github.com/IntensiveCoLearning/Narrative-Reading/blob/main/wenQian-see.md) | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |   | ✅ | ✅ | ⭕️ | ⭕️ | ❌ | | | | |
+| [Tristan3198](https://github.com/IntensiveCoLearning/Narrative-Reading/blob/main/Tristan3198.md) | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⭕️ | ✅ | ✅ | ⭕️ | ✅ | ✅ | ⭕️ | ⭕️ | ❌ | | | | | |
 | [Ailce889](https://github.com/IntensiveCoLearning/Narrative-Reading/blob/main/Ailce889.md) | ✅ | ⭕️ | ✅ | ✅ | ✅ | ⭕️ | ✅ | ⭕️ | ❌ | | | | | | | | | | | | |
 | [NeoLeeAI](https://github.com/IntensiveCoLearning/Narrative-Reading/blob/main/NeoLeeAI.md) | ✅ | ✅ | ⭕️ | ⭕️ | ✅ | ⭕️ | ⭕️ | ❌ | | | | | | | | | | | | | |
-| [rayjun](https://github.com/IntensiveCoLearning/Narrative-Reading/blob/main/rayjun.md) | ✅ | ⭕️ | ✅ | ✅ | ⭕️ | ✅ | ✅ | ⭕️ | ✅ | ✅ | ✅ | ⭕️ | ⭕️ | ✅ | ⭕️ | ❌ | | | | | |
+| [rayjun](https://github.com/IntensiveCoLearning/Narrative-Reading/blob/main/rayjun.md) | ✅ | ⭕️ | ✅ | ✅ | ⭕️ | ✅ | ✅ | ⭕️ | ✅ | ✅ | ✅ |   | ⭕️ | ✅ | ⭕️ | ❌ | | | | | |
 | [LunaWang5209](https://github.com/IntensiveCoLearning/Narrative-Reading/blob/main/LunaWang5209.md) | ⭕️ | ✅ | ✅ | ⭕️ | ✅ | ⭕️ | ⭕️ | ❌ | | | | | | | | | | | | | |
 | [wodeche](https://github.com/IntensiveCoLearning/Narrative-Reading/blob/main/wodeche.md) | ✅ | ✅ | ⭕️ | ⭕️ | ❌ | | | | | | | | | | | | | | | | |
 | [taoranzhishang](https://github.com/IntensiveCoLearning/Narrative-Reading/blob/main/taoranzhishang.md) | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
 | [zhangtaotaoBTC](https://github.com/IntensiveCoLearning/Narrative-Reading/blob/main/zhangtaotaoBTC.md) | ✅ | ⭕️ | ⭕️ | ❌ | | | | | | | | | | | | | | | | | |
 | [bububut](https://github.com/IntensiveCoLearning/Narrative-Reading/blob/main/bububut.md) | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
 | [Chloezhu010](https://github.com/IntensiveCoLearning/Narrative-Reading/blob/main/Chloezhu010.md) | ✅ | ⭕️ | ✅ | ✅ | ✅ | ⭕️ | ⭕️ | ❌ | | | | | | | | | | | | | |
-| [ztm0929](https://github.com/IntensiveCoLearning/Narrative-Reading/blob/main/ztm0929.md) | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⭕️ | ✅ | ✅ | ✅ |   | ✅ | ✅ | ✅ | ✅ | ✅ | ⭕️ | ✅ | ✅ | ✅ | ✅ |
+| [ztm0929](https://github.com/IntensiveCoLearning/Narrative-Reading/blob/main/ztm0929.md) | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⭕️ | ✅ | ✅ | ✅ | ⭕️ | ✅ | ✅ | ✅ | ✅ | ✅ | ⭕️ | ✅ | ✅ | ✅ | ✅ |
 | [luffythink](https://github.com/IntensiveCoLearning/Narrative-Reading/blob/main/luffythink.md) | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
 | [Nourbit](https://github.com/IntensiveCoLearning/Narrative-Reading/blob/main/Nourbit.md) | ✅ | ⭕️ | ✅ | ✅ | ⭕️ | ⭕️ | ⭕️ | ❌ | | | | | | | | | | | | | |
 | [flytoufu2024](https://github.com/IntensiveCoLearning/Narrative-Reading/blob/main/flytoufu2024.md) | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
 | [Linda-zx](https://github.com/IntensiveCoLearning/Narrative-Reading/blob/main/Linda-zx.md) | ⭕️ | ⭕️ | ❌ | | | | | | | | | | | | | | | | | | |
 | [Raeeeeelei](https://github.com/IntensiveCoLearning/Narrative-Reading/blob/main/Raeeeeelei.md) | ✅ | ✅ | ✅ | ✅ | ✅ | ⭕️ | ⭕️ | ❌ | | | | | | | | | | | | | |
 | [Vansir01](https://github.com/IntensiveCoLearning/Narrative-Reading/blob/main/Vansir01.md) | ✅ | ⭕️ | ⭕️ | ❌ | | | | | | | | | | | | | | | | | |
-| [Insomnia501](https://github.com/IntensiveCoLearning/Narrative-Reading/blob/main/Insomnia501.md) | ✅ | ✅ | ⭕️ | ✅ | ✅ | ✅ | ✅ | ✅ | ⭕️ | ⭕️ |   | ❌ | | | | | | | | | |
+| [Insomnia501](https://github.com/IntensiveCoLearning/Narrative-Reading/blob/main/Insomnia501.md) | ✅ | ✅ | ⭕️ | ✅ | ✅ | ✅ | ✅ | ✅ | ⭕️ | ⭕️ | ❌ | | | | | | | | | | |
 | [KarlLEEN](https://github.com/IntensiveCoLearning/Narrative-Reading/blob/main/KarlLEEN.md) | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⭕️ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⭕️ | ⭕️ | ✅ | ✅ | ✅ |
 | [JL-Lelouch](https://github.com/IntensiveCoLearning/Narrative-Reading/blob/main/JL-Lelouch.md) | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
 | [paaarissss](https://github.com/IntensiveCoLearning/Narrative-Reading/blob/main/paaarissss.md) | ✅ | ⭕️ | ⭕️ | ❌ | | | | | | | | | | | | | | | | | |
 | [ChengruiGu](https://github.com/IntensiveCoLearning/Narrative-Reading/blob/main/ChengruiGu.md) | ✅ | ✅ | ✅ | ⭕️ | ✅ | ✅ | ✅ | ✅ | ⭕️ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⭕️ | ✅ | ✅ | ⭕️ |
-| [charlottyge](https://github.com/IntensiveCoLearning/Narrative-Reading/blob/main/charlottyge.md) | ⭕️ | ⭕️ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |   | ⭕️ | ✅ | ✅ | ✅ | ✅ | ✅ | ⭕️ | ⭕️ | ⭕️ | ⭕️ |
+| [charlottyge](https://github.com/IntensiveCoLearning/Narrative-Reading/blob/main/charlottyge.md) | ⭕️ | ⭕️ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⭕️ |   | ✅ | ✅ | ✅ | ✅ | ✅ | ⭕️ | ⭕️ | ⭕️ | ⭕️ |
 | [rich-loam](https://github.com/IntensiveCoLearning/Narrative-Reading/blob/main/rich-loam.md) | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⭕️ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
 | [lulleeeeee](https://github.com/IntensiveCoLearning/Narrative-Reading/blob/main/lulleeeeee.md) | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
 | [lilian79511](https://github.com/IntensiveCoLearning/Narrative-Reading/blob/main/lilian79511.md) | ✅ | ✅ | ✅ | ⭕️ | ✅ | ✅ | ✅ | ✅ | ⭕️ | ✅ | ✅ | ✅ | ⭕️ | ⭕️ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
 <!-- END_COMMIT_TABLE -->
+
 
 
 
